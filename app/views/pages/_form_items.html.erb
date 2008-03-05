@@ -1,0 +1,9 @@
+<% javascript_tag do -%>
+  var <%= "#{form_items}" %> = [
+    <%= ext_field(:field_label => 'Title', :name => 'page[title]', :xtype => :text_field) %>,
+    <%= ext_field(:field_label => 'Position', :name => 'page[position]', :xtype => :text_field) %>,
+    <%= ext_field(:field_label => 'Parent Page', :name => 'page[parent_id]', :xtype => :text_field) %>,
+    <%= ext_field(:field_label => 'Type of Page', :name => 'page[type]', :xtype => :text_field) %>,
+    <%= ext_field(:field_label => 'Template', :name => 'page[template]', :xtype => :text_field) %>
+  ];
+<% end -%>

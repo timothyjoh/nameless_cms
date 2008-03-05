@@ -1,0 +1,12 @@
+<div id="page-grid"></div>
+<%= ext_datastore_for :page %>
+<% javascript_tag do -%>
+  var page_column_model = new Ext.grid.ColumnModel([
+    {id: 'id', header: "#", width: 20, dataIndex: 'id'},
+    {header: 'Title', dataIndex: 'page[title]'},
+    {header: 'Type', dataIndex: 'page[type]'},
+    {header: 'Position', dataIndex: 'page[position]'},
+    {header: 'Parent', dataIndex: 'page[parent_id]'}
+  ]);
+<% end -%>
+<%= ext_grid_for :page, :element => 'page-grid', :page_size => 20 %>

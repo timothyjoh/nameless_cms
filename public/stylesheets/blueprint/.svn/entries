@@ -1,0 +1,71 @@
+8
+
+dir
+442
+http://blueprintcss.googlecode.com/svn/blueprint/trunk/blueprint
+http://blueprintcss.googlecode.com/svn
+
+
+
+2008-02-12T12:22:43.803157Z
+442
+olavfb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+635ac39e-fd36-0410-bce9-01c9dc5a8ffe
+
+plugins
+dir
+
+print.css
+file
+
+
+
+
+2008-02-12T22:54:24.000000Z
+6ab65ba1523267ab424b03d62a713311
+2008-02-05T22:02:00.131182Z
+429
+olavfb
+
+ie.css
+file
+
+
+
+
+2008-02-12T22:54:24.000000Z
+e0e9f9123cc87277a58d65eb478e3b93
+2008-02-07T19:29:28.488081Z
+436
+olavfb
+
+screen.css
+file
+
+
+
+
+2008-02-12T22:54:24.000000Z
+c27f309898ec814861b15d7ecd1a5e6c
+2008-02-12T12:22:43.803157Z
+442
+olavfb
+has-props
+
+src
+dir
+
