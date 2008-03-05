@@ -49,8 +49,4 @@ ActiveRecord::Schema.define(:version => 3) do
     t.datetime "remember_token_expires_at"
   end
 
-  add_index "users", ["agentkey"], :name => "index_users_on_agentkey"
-  add_index "users", ["email"], :name => "index_users_on_email"
-  add_index "users", ["username"], :name => "index_users_on_username"
-
 end
