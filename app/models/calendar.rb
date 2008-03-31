@@ -1,0 +1,3 @@
+class Calendar < Page
+  
+end

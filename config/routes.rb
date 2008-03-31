@@ -39,6 +39,14 @@ ActionController::Routing::Routes.draw do |map|
   # See how all your routes lay out with "rake routes"
 
   # Install the default routes as the lowest priority.
+  map.with_options(:controller => 'site') do |site|
+    site.homepage          '',                                   :action => 'show_page', :url => '/'
+    site.not_found         'error/404',                          :action => 'not_found'
+    site.error             'error/500',                          :action => 'error'
+  
+    # Everything else
+    site.connect           '*url',                               :action => 'show_page'
+  end
   map.connect ':controller/:action/:id'
   map.connect ':controller/:action/:id.:format'
 end

@@ -3,7 +3,6 @@ class User < ActiveRecord::Base
   has_many :entries
   
   
-  
   # Virtual attribute for the unencrypted password
   attr_accessor :password
 
