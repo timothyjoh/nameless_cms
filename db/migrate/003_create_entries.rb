@@ -2,6 +2,7 @@ class CreateEntries < ActiveRecord::Migration
   def self.up
     create_table :entries do |t|
       t.string :title
+      t.string :slug
       t.text :body
       t.string :search_terms
       t.integer :user_id

@@ -13,6 +13,7 @@ ActiveRecord::Schema.define(:version => 3) do
 
   create_table "entries", :force => true do |t|
     t.string   "title"
+    t.string   "slug"
     t.text     "body"
     t.string   "search_terms"
     t.integer  "user_id"
@@ -28,12 +29,14 @@ ActiveRecord::Schema.define(:version => 3) do
 
   create_table "pages", :force => true do |t|
     t.string   "title"
+    t.string   "slug"
     t.string   "meta_keywords"
     t.string   "meta_description"
     t.integer  "parent_id"
     t.integer  "position"
     t.string   "type"
     t.string   "template"
+    t.datetime "published_at"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
