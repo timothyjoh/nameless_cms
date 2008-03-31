@@ -1,12 +1,11 @@
 class CreateAttachments < ActiveRecord::Migration
   def self.up
     create_table :attachments do |t|
-      t.title :string
-      t.type :string
-      t.attachment_file_name :string
-      t.attachment_content_type :string
-      t.attachment_file_size :string
-
+      t.string :title
+      t.string :title
+      t.string :attachment_file_name
+      t.string :attachment_content_type
+      t.integer :attachment_file_size
       t.timestamps
     end
   end
