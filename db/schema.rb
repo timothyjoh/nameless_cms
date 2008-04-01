@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(:version => 4) do
     t.datetime "updated_at"
   end
 
-  create_table "elemenst", :force => true do |t|
+  create_table "elements", :force => true do |t|
     t.string   "title"
     t.string   "slug"
     t.text     "body"
