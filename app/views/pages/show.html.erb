@@ -46,7 +46,10 @@
       <hr />
     </div>
   </div>
-
+  <div>
+    <div id="elements"><%= form.render_associated_form(@page.elements) %></div>
+    <p><%= form.add_associated_link "Add New Element", @page.elements.build %></p>
+  </div>
 <% end %>
 <p class="destroy"><%= link_to 'Destroy this Page', object_url(@page), :confirm => 'Are you sure?', :method => :delete %></p>
 </div>

@@ -4,7 +4,7 @@ class Page < ActiveRecord::Base
   acts_as_ordered_tree :foreign_key => :parent_id,
                        :order       => :position
                        
-  has_many :elements
+  has_many :elements#, :attributes => true, :dependent => :destroy
   
   before_save :generate_slug
   
