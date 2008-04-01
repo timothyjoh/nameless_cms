@@ -11,7 +11,7 @@ class SiteController < ApplicationController
   # end
   
   def show_page
-    response.headers.delete('Cache-Control')
+    # response.headers.delete('Cache-Control')
    
     url = params[:url]
     if Array === url
@@ -20,12 +20,27 @@ class SiteController < ApplicationController
       url = url.to_s
     end
    
-    if (request.get? || request.head?) and live? and (@cache.response_cached?(url))
-      @cache.update_response(url, response, request)
-      @performed_render = true
+    @page = Page.find_by_slug(url)
+    
+    if @page.nil?
+      redirect_to :action => 'not_found' 
     else
-      show_uncached_page(url)
+      render :layout => "templates/#{@page.template}" 
     end
+    # if (request.get? || request.head?) and live? and (@cache.response_cached?(url))
+    #   @cache.update_response(url, response, request)
+    #   @performed_render = true
+    # else
+    #   show_uncached_page(url)
+    # end
+  end
+  
+  def not_found
+    render :text => "We cannot find that page"    
+  end
+  
+  def error
+    render :text => "You have caused an error"
   end
   
   private

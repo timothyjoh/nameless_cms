@@ -1,6 +1,6 @@
-class CreateEntries < ActiveRecord::Migration
+class CreateElements < ActiveRecord::Migration
   def self.up
-    create_table :entries do |t|
+    create_table :elemenst do |t|
       t.string :title
       t.string :slug
       t.text :body
@@ -18,6 +18,6 @@ class CreateEntries < ActiveRecord::Migration
   end
 
   def self.down
-    drop_table :entries
+    drop_table :elements
   end
 end

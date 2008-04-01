@@ -1,13 +1,30 @@
+require 'find'
 class Page < ActiveRecord::Base
-  defaults :type => 'StandardPage', :parent_id => 0, :template => 'Main'
+  defaults :parent_id => 0
   acts_as_ordered_tree :foreign_key => :parent_id,
                        :order       => :position
-  has_many :entries
+                       
+  has_many :elements, :attributes => true, :dependent => :destroy
+  
+  before_save :generate_slug
   
   
-  
+  Page::PAGETYPES = [ ["Normal", "Page"], 
+                      ["Blog", "Blog"],
+                      ["Gallery", "Gallery"],
+                      ["Calendar", "Calendar"]]
+    
+                      
+  def self.template_names
+    filenames = []
+    Find.find("#{RAILS_ROOT}/app/views/templates") do |path|
+      filenames << path.split("/").last.split(".").first if File.file?(path)
+    end
+    filenames
+  end
+                      
   def self.random
-    ids = connection.select_all("SELECT id FROM widgets")
+    ids = connection.select_all("SELECT id FROM pages")
     find(ids[rand(ids.length)]["id"].to_i) unless ids.blank?
   end
   
@@ -33,4 +50,18 @@ class Page < ActiveRecord::Base
       children.find(:first, :conditions => [condition] + file_not_found_names)
     end
   end
+  
+  def depth 
+    parent.nil? ? 0 : parent.depth + 1
+  end
+  
+  protected
+    def generate_slug
+      if self.slug.blank?
+        self.slug = self.title.gsub(/[^a-z1-9]+/i, '_').downcase
+      else
+        self.slug.gsub!(/[^a-z1-9]+/i, '_')
+        self.slug.downcase!
+      end
+    end
 end

@@ -15,6 +15,7 @@ ActiveRecord::Schema.define(:version => 4) do
     t.string   "title"
     t.string   "type"
     t.integer  "position"
+    t.integer  "element_id"
     t.string   "attachment_file_name"
     t.string   "attachment_content_type"
     t.integer  "attachment_file_size"
@@ -22,7 +23,7 @@ ActiveRecord::Schema.define(:version => 4) do
     t.datetime "updated_at"
   end
 
-  create_table "entries", :force => true do |t|
+  create_table "elemenst", :force => true do |t|
     t.string   "title"
     t.string   "slug"
     t.text     "body"
@@ -43,7 +44,9 @@ ActiveRecord::Schema.define(:version => 4) do
     t.string   "slug"
     t.string   "meta_keywords"
     t.string   "meta_description"
-    t.integer  "parent_id"
+    t.integer  "parent_id",        :default => 0, :null => false
+    t.integer  "lft"
+    t.integer  "rgt"
     t.integer  "position"
     t.string   "type"
     t.string   "template"

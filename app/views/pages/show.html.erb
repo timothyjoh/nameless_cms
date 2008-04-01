@@ -1,0 +1,64 @@
+
+<div id="page">
+  <% form_for :page, @page, :url => object_url, :html => { :method => :put, :multipart => true } do |form| %>
+  <div class="span-14 last" style="background: #efeefe">
+    <div class="savepage"><p><%= form.submit "Save the Current Page" %></p>
+    </div>
+    <p class="big" style="padding: 20px 0">
+    <%= image_tag "cms/#{@page.type || "Page"}.png" %>
+    <%= form.label "#{@page.type} page title:" %><br />
+    <%= form.text_field :title, :style=>"width: 330px;" %></p>
+    <p><%= form.label "Slug:" %><br />
+    <%= form.text_field :slug, :style=>"width: 330px;" %></p>
+    <p><a href="#" class="meta_toggle">Show/Hide Meta Fields</a> || 
+      <a href="#" class="extra_toggle">Show/Hide Extra Properties</a>
+      </p>
+
+  </div>
+  <hr />
+  <div id="extrafields">
+    <div class="span-5">
+      <P><%= form.label "Template:" %><br />
+      <%= form.select :template, Page.template_names %></P>
+    </div>
+    <div class="span-5">
+      <p><%= form.label "Parent Page:" %><br />
+      <%= form.select :parent_id, [["",0]] + Page.find(:all).collect{|p| [p.title, p.id] } %></p>
+    </div>
+    <div class="span-4 last">
+      <p><%= form.label "Position:" %><br />
+      <%= form.text_field :position, :class => "span-2" %><br /></p>
+    </div>
+    <hr />
+    <div class="span-14">
+      <P class='datetime'><%= form.label "Published at:" %><br />
+      <%= form.datetime_select :published_at, {:minute_step => 15, :twelve_hour => true} %></P>
+    </div>
+    <hr />
+  </div>
+  <div class="span-14">
+    <div id="metafields" style="display:none">
+      <p>
+      <%= form.label "Meta Keywords:" %><br />
+      <%= form.text_area :meta_keywords %></p>
+      <%= form.label "Meta Description:" %><br />
+      <%= form.text_area :meta_description %></p>
+      <hr />
+    </div>
+  </div>
+
+<% end %>
+<p class="destroy"><%= link_to 'Destroy this Page', object_url(@page), :confirm => 'Are you sure?', :method => :delete %></p>
+</div>
+
+
+
+
+<% content_for :sidebar do %>
+<div style="margin-top: 100px">
+  <p>Add a page element</p>
+  
+
+</div>
+<% end %>
+

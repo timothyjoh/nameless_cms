@@ -1,0 +1,3 @@
+class RichText < Element
+
+end

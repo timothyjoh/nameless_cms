@@ -1,9 +1,3 @@
-<div>
-  <p>A list of pages</p>
-  <h4><%= @page.title %></h4>
-  
-</div>
-
-<div>
-  <p>Create a new page</p>
-  
+  <h4 style="margin-left:<%= page.depth*30  %>px;"><%= image_tag "cms/#{page.type || "Page"}.png", :width => 32, :height => 32, :style => 'vertical-align:middle;'  %> 
+  <%= link_to page.title, page_url(page) %> <%= "&nbsp;"*3 %> <%= link_to "•", "/#{page.slug}" %></h4>
+  <%= render_partial_collection 'page', page.children %>

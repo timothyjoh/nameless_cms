@@ -1,3 +1,3 @@
-class Gallery < Element
+class Gallery < Page
 
 end

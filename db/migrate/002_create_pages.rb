@@ -5,7 +5,9 @@ class CreatePages < ActiveRecord::Migration
       t.string :slug
       t.string :meta_keywords
       t.string :meta_description
-      t.integer :parent_id
+      t.integer :parent_id, :null => false ,:default => 0
+      t.integer :lft
+      t.integer :rgt
       t.integer :position
       t.string :type
       t.string :template

@@ -1,1 +1,23 @@
-<% render_partial_collection 'page', @pages %>
+<div>
+  <p>A list of pages</p>
+  <%= render_partial_collection 'page', @pages %>
+</div>
+
+<% content_for :sidebar do %>
+<div>
+  <p>Create a new page</p>
+  
+  <% form_for :page, @page, :url => collection_url, :html => { :multipart => true } do |form| %>
+    <p><%= form.label "Page Type: " %>
+    <%= form.select :type, Page::PAGETYPES %></p>
+    <p><%= form.label "Title: " %>
+    <%= form.text_field :title %></p>
+    <p><%= form.label "Is a subpage of: " %>
+    <%= form.select :parent_id, [["",0]] + Page.find(:all).collect{|p| [p.title, p.id] } %></p>
+    <input id="page_template" name="page[template]" type="hidden" value="<%= Page.template_names.first %>" />
+    <p><%= form.submit "Create", :style => "font-size:18px; text-align:center" %></p>
+    
+   <% end %>
+</div>
+<% end %>
+

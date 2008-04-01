@@ -4,6 +4,7 @@ class CreateAttachments < ActiveRecord::Migration
       t.string :title
       t.string :type
       t.integer :position
+      t.integer :element_id
       t.string :attachment_file_name
       t.string :attachment_content_type
       t.integer :attachment_file_size
