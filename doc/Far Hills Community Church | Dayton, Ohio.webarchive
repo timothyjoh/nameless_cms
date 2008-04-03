@@ -1,723 +1,0 @@
-bplist00Ò_WebMainResource_WebSubresourcesÕ	
-^WebResourceURL_WebResourceTextEncodingName_WebResourceMIMEType_WebResourceData_WebResourceFrameName_http://www.farhills.org/UUTF-8Ytext/htmlO2Ø<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/homepage.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="Description" content="Far Hills Community Church is a contemporary Christian body of believers located at 5800 Clyo Rd in Dayton, Ohio. We have several dynamic ministries for all aspects of your family. Join us this Sunday!">
-<meta name="keywords" content="Far Hills Community Church, Far Hills, Far Hills Baptist Church, Dayton Ohio, Centerville, Kettering, Beavercreek, Ohio, farhills.org, Southern Baptist Church, Southern Baptist Convention, far hills community church, far hills church, contemporary church, relevant church, modern worship, relevant teaching, I-75 and I-675 churches, children's ministries, student ministries, adult ministries">
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Far Hills Community Church | Dayton, Ohio</title>
-<!-- InstanceEndEditable -->
-<style type="text/css">
-<!--
-body {
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-}
--->
-</style>
-<link href="links/css/stylesheet.css" rel="stylesheet" type="text/css">
-<script type="text/JavaScript">
-<!--
-function MM_checkPlugin(plgIn, theURL, altURL, autoGo) { //v4.0
-  var ok=false; document.MM_returnValue = false;
-  with (navigator) if (appName.indexOf('Microsoft')==-1 || (plugins && plugins.length)) {
-    ok=(plugins && plugins[plgIn]);
-  } else if (appVersion.indexOf('3.1')==-1) { //not Netscape or Win3.1
-    if (plgIn.indexOf("Flash")!=-1 && window.MM_flash!=null) ok=window.MM_flash;
-    else if (plgIn.indexOf("Director")!=-1 && window.MM_dir!=null) ok=window.MM_dir;
-    else ok=autoGo; }
-  if (!ok) theURL=altURL; if (theURL) window.location=theURL;
-}
-//-->
-</script>
-
-<script type="text/javascript" src="links/scripts/flash_detect.js">
-//<![CDATA[
-function getFlashVersion(8) { return null; };
-//]]>
-</script>
-
-<script language="JavaScript">
-<!-- Begin
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=710,height=700,left = 50,top = 50');");
-}
-// End -->
-</script>
-
-<!-- InstanceBeginEditable name="head" -->
-<script type="text/JavaScript">
-<!--
-
-
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-<!-- InstanceEndEditable -->
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-</head><body>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="35" height="100" align="left" valign="top" background="links/images/topfade.gif"><img src="links/images/blank.gif" width="50" height="1"></td>
-    <td width="5" height="83" align="left" valign="top" background="links/images/topfade.gif">Â </td>
-    <td height="100" colspan="5" align="left" valign="top" background="links/images/topfade.gif"><a href="index.html"><img src="links/images/logo.gif" alt="far hills logo" width="155" height="100" border="0"></a></td>
-  </tr>
-  <tr>
-    <td width="35" height="200" align="left" valign="top" background="links/images/img_101.gif">Â </td>
-    <td width="5" height="200" align="left" valign="top"><img src="links/images/blank.gif" width="5" height="1"></td>
-    <td width="600" height="235" rowspan="2" align="left" valign="top"><script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','600','height','235','onfocus','MM_checkPlugin(\'Shockwave Flash\',\'\',\'http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\',true);return document.MM_returnValue','src','../links/flash/feature','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','../links/flash/feature' ); //end AC code
-</script><object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="600" height="235" onfocus="MM_checkPlugin('Shockwave Flash','','http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash',true);return document.MM_returnValue" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="../links/flash/feature.swf"> <param name="quality" value="high"> <embed width="600" height="235" src="../links/flash/feature.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></object><noscript></noscript></td>
-    <td width="5" height="200" align="left" valign="top"><img src="links/images/blank.gif" width="5" height="1"></td>
-    <td width="150" height="200" align="left" valign="top"><script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','150','height','200','src','../links/flash/web_ad1','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','../links/flash/web_ad1' ); //end AC code
-</script><object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="150" height="200" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="../links/flash/web_ad1.swf"> <param name="quality" value="high"> <embed width="150" height="200" src="../links/flash/web_ad1.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></object><noscript></noscript><script type="text/javascript" src="links/scripts/ieupdate.js"></script></td>
-    <td width="5" height="200" align="left" valign="top"><img src="links/images/blank.gif" width="5" height="1"></td>
-    <td height="200" align="left" valign="top" background="links/images/img_101.gif">Â </td>
-  </tr>
-  <tr>
-    <td width="35" height="35" align="left" valign="top">Â </td>
-    <td width="5" align="left" valign="top">Â </td>
-    <td width="5" align="left" valign="top">Â </td>
-    <td width="150" height="35" align="left" valign="top"><img src="links/images/quicklinks.gif" alt="quicklinks" width="150" height="35"></td>
-    <td width="5" height="35" align="left" valign="top">Â </td>
-    <td height="35" align="left" valign="top">Â </td>
-  </tr>
-  <tr>
-    <td height="5" colspan="7" align="left" valign="top"><img src="links/images/blank.gif" width="1" height="1"></td>
-  </tr>
-  <tr>
-    <td width="35" align="left" valign="top">Â </td>
-    <td align="left" valign="top">Â </td>
-    <td align="left" valign="top"><!-- InstanceBeginEditable name="HomeContent" -->
-      <table width="600" height="330" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td align="left" valign="top"><table height="300" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td width="150" height="100" align="center" valign="middle" bgcolor="#FFFFFF"><img src="images/WomenofFaith.gif" width="149" height="26"></td>
-              <td width="5" height="100" align="left" valign="top" bgcolor="#FFFFFF"><img src="links/images/blank.gif" width="5" height="1"></td>
-              <td width="150" height="100" align="left" valign="top" bgcolor="#333333"><img src="links/images/SMhorizontal_ad4.jpg" width="150" height="100"></td>
-              <td width="5" height="100" align="left" valign="top" bgcolor="#FFFFFF"><img src="links/images/blank.gif" width="5" height="1"></td>
-              <td width="290" height="100" align="left" valign="top" bgcolor="#FFFFFF"><img src="links/images/LRGhorizontal_ad.jpg" width="290" height="100"></td>
-            </tr>
-            <tr>
-                <td width="150" align="left" valign="top" bgcolor="#F3F3F3" class="cellpadding"><span class="heading">Infinite Grace</span><br>
-                  <strong>Women of Faith Conference 2008<br>
-                                    </strong><br>
-                                    <strong>Friday April 25th </strong><br>
-7:00-9:30pm<br>
-<br>
-<strong>Saturday April 26th </strong>9:00am-5:00pm<br>
-<br>
-Nationwide Arena, Columbus<br>
-<br>
-Tickets are $45 each, and may be purchased Sundays at the Information Desk just outside the Worship Center or call the church office at <br>
-434-3232 for more information.<br></td>
-                <td width="5" align="left" valign="top">Â </td>
-              <td width="150" align="left" valign="top" bgcolor="#F6F8E6" class="cellpadding"><span class="heading">Acts 1-8<br>
-              Initiative</span><br>
-                The Acts 1:8 Initiative calls for us to minister to our neighbors in the Dayton area, our American family in the United States and our worldwide family. The foundation of our mission work is to make investments now in our world that will plant the gospel in generations to come which will prepare the world for the return of Jesus Christ, The Lord of Lords and King of Kings. <br>
-                <br>
-                <a href="http://www.farhills.org/ministries/missions.html"><img src="images/clickhere.gif" width="70" height="17" border="0"></a><br>
-                <br></td>
-              <td width="5" align="left" valign="top">Â </td>
-              <td width="290" rowspan="3" align="left" valign="top" class="cellpadding"><span class="heading">CURRENT Sermons </span><br>
-              <br>
-Mar 9 â€œThe Sound of Silenceâ€ Psalm 46<br>
-- 
-Dave Lynden<br>
-<br>
-Mar 16 â€œThe Religious, Self-Righteous, Pagan, and Us" -Pete Schwalm<br>
-<br>
-Mar 23 â€œThe Emerging Life" - Easter Sunday <br>
-- Pete Schwalm<br>
-<br></td>
-            </tr>
-            <tr>
-              <td height="3" colspan="4" align="left" valign="top"><img src="links/images/blank.gif" width="1" height="1"></td>
-            </tr>
-            <tr>
-              <td height="10" colspan="3" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td height="7"><img src="links/images/blank.gif" width="1" height="1"></td>
-                  </tr>
-                  <tr>
-                    <td height="7" bgcolor="#666666"><img src="links/images/blank.gif" width="1" height="1"></td>
-                  </tr>
-              </tbody></table></td>
-              <td width="2" align="left" valign="top">Â </td>
-            </tr>
-          </tbody></table></td>
-        </tr>
-      </tbody></table>
-    <!-- InstanceEndEditable --></td>
-    <td align="left" valign="top">Â </td>
-    <td align="left" valign="top" class="cellpadding"><a href="guests/servicetimes.html">Service Times</a><br>
-        <a href="messages/messages.html">Messages</a><br>
-        <a href="guests/directions.html">Directions</a><br>
-        <a href="resources/prayerrequests.html">Prayer Requests</a><br>
-        <a href="ministries/serve.html">Serve</a><br>
-    <a href="leadership/index.html">Leadership Updates</a></td>
-    <td align="left" valign="top">Â </td>
-    <td align="left" valign="top">Â </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">Â </td>
-    <td align="left" valign="top">Â </td>
-    <td align="left" valign="top" class="date"><table border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="15" class="date">Far Hills Community Church- 5800 Clyo Road
-          - Dayton, Ohio 45459<br>
-          Telephone: 937-434-3232 Facsimile: 937-434-9866 <br>
-          <a href="contact.html">Click Here to Contact Us |  Â© 2007
-          Far Hills Community Church </a></td>
-      </tr>
-      <tr>
-        <td height="15" class="sitecredit"><a href="http://www.antistaticdesign.com" target="_blank" class="sitecredit"><br>
-          Branding + Site Design by Antistatic Design</a></td>
-      </tr>
-      <tr>
-        <td height="15" class="sitecredit"><a href="http://www.adobe.com/go/getflashplayer" target="_blank" class="sitecredit"><br>
-          THIS SITE REQUIRES FLASH </a></td>
-      </tr>
-    </tbody></table></td>
-    <td align="left" valign="top">Â </td>
-    <td align="left" valign="top">Â </td>
-    <td align="left" valign="top">Â </td>
-    <td align="left" valign="top">Â </td>
-  </tr>
-</tbody></table>
-
-<script name="Used by MM_checkPlugin" language="javascript">
-<!--
-with (navigator) if (appName.indexOf('Microsoft')!=-1 && appVersion.indexOf('Mac')==-1) document.write(''+
-'<scr'+'ipt language="VBScript">\nOn error resume next\n'+
-'MM_dir = IsObject(CreateObject("SWCtl.SWCtl.1"))\n'+
-'MM_flash = NOT IsNull(CreateObject("ShockwaveFlash.ShockwaveFlash"))\n</scr'+'ipt>');
-//-->
-</script>
-<!-- InstanceEnd -->
-</body></html>V_blank­#'+/37;@DÔ_WebResourceResponse_0http://www.farhills.org/links/css/stylesheet.cssOÿbplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_0http://www.farhills.org/links/css/stylesheet.cssÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“„ÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=100UbytesZWebServerXXtext/css_Fri, 14 Mar 2008 17:00:56 GMTT4794_"36f9623-12ba-46718c68"_Thu, 14 Jun 2007 18:43:52 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionaryºÒ./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-?DMX[ajsu|„‘›Ÿ¡£¥§©«­·¹»½¿ÁÃÅÇÉÔâéöû
-(>DOXx}—·¼ÀÖãæëï             g              Xtext/cssOº/*body {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	line-height: 13px;
-	color: #666666;
-}*/
-
-td, div {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	line-height: 15px;
-	color: #666666;
-}
-
-select {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	line-height: 15px;
-	color: #666666;
-}
-
-A:link          {text-decoration:none; color:#666666;}
-A:active        {text-decoration:none; color:#666666;}
-A:visited       {text-decoration:none; color:#666666;}
-A:hover         {text-decoration:none; color:#A6BC09;}
-
-.subnavmainstyle {line-height: 16px; width:100%; margin:0px; padding-top:2px; padding-bottom:2px; padding-right:0px; padding-left:2px;}
-a.subnavmainstyle:link {text-decoration:none; color:#666666;}
-a.subnavmainstyle:active {text-decoration:none; color:#666666;}
-a.subnavmainstyle:visited {text-decoration:none; color:#666666;}
-a.subnavmainstyle:hover {text-decoration:none; color:#000000; background:#666666;}
-
-.subnavsubstyle {line-height: 15px; width:100%; margin-left:10px; padding-top:2px; padding-bottom:2px; padding-right:0px; padding-left:2px;}
-A.subnavsubstyle:link          {text-decoration:none; color:#666666;}
-A.subnavsubstyle:active        {text-decoration:none; color:#666666;}
-A.subnavsubstyle:visited       {text-decoration:none; color:#666666;}
-A.subnavsubstyle:hover         {text-decoration:underline; color:#666666;}
-
-.bodybold {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	line-height: 15px;
-	color: #666666;
-	font-weight: bold;
-}
-
-.bodyoptional {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	line-height: 15px;
-	color: #777777;
-}
-
-.heading {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	color: #09144F;
-	line-height: 20px;
-	text-transform: uppercase;
-}
-
-.headingbold {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 18px;
-	color: #09144F;
-	text-transform: uppercase;
-	line-height: 20px;
-	font-weight: bold;
-}
-
-.subheading {
-	font-family: Verdana, sans-serif;
-	font-size: 12px;
-	color: #09144F;
-}
-
-.subheadingbold {
-	font-family: Verdana, sans-serif;
-	font-size: 12px;
-	color: #09144F;
-	font-weight: bold;
-}
-
-.optionalheading {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	line-height: 16px;
-	color: #A6BC09;
-	text-transform: uppercase;
-	font-weight: bold;
-}
-
-.sitecredit 		{font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #999999;}
-A.sitecredit:link        {TEXT-DECORATION: none; color: #999999;}
-A.sitecredit:active      {TEXT-DECORATION: none; color: #999999;}
-A.sitecredit:visited     {TEXT-DECORATION: none; color: #999999;}
-A.sitecredit:hover       {TEXT-DECORATION: underline; color: #333333;}
-
-.breadcrumbstyle {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; text-align: left; color: #000000; font-weight: bold;}
-A.breadcrumbstyle:link        {TEXT-DECORATION: none; color: #000000;}
-A.breadcrumbstyle:active      {TEXT-DECORATION: none; color: #000000;}
-A.breadcrumbstyle:visited     {TEXT-DECORATION: none; color: #000000;}
-A.breadcrumbstyle:hover       {TEXT-DECORATION: underline; color: #000000;}
-
-.textfield {
-	font-family: Verdana, Geneva, Helvetica, sans-serif;
-	font-size: 9px;
-	color: #666666;
-	background-color: #ffffff;
-	padding: 1px;
-	border-top: 1px solid #000000;
-	border-bottom: 1px solid #666666;
-	border-right: 1px solid #666666;
-	border-left: 1px solid #000000;
-	width: 150px;
-}
-
-.button {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 9px;
-	line-height: 13px;
-	color: #404040;
-	background-color: #FFFFFF;
-}
-
-.date {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #999999;}
-
-.mainnavstyle1 {
-	height:45px;
-	width: 100px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	border-left:1px solid #336699;
-	text-indent: 10px;
-	padding-top: 4px;
-}
-
-a.mainnavstyle1:link {
-	text-decoration:none; 
-	color:#FFFFFF; 
-	background-image: url(http://www.sitewrench.com/tempsitecom/shellfiles/images/menu.jpg);
-	font-size:12px}
-a.mainnavstyle1:active {
-	text-decoration:none; 
-	color:#FFFFFF; 
-	background-image: url(http://www.sitewrench.com/tempsitecom/shellfiles/images/menu.jpg);
-	font-size:12px}
-a.mainnavstyle1:visited {
-	text-decoration:none;
-	color:#FFFFFF; 
-	background-image: url(http://www.sitewrench.com/tempsitecom/shellfiles/images/menu.jpg);
-	font-size:12px}
-a.mainnavstyle1:hover {
-	text-decoration:none; 
-	color:#FFFFFF; 
-	background-image: url(http://www.sitewrench.com/tempsitecom/shellfiles/images/menu-over.jpg);
-	font-size:12px}
-
-.cellpadding {
-	padding: 10px;
-}
-.line_vert_background {
-	background-image: url(../links/images/line_vert.gif);
-	background-repeat: repeat-y;
-}
-.line_horz_repeat {	background-image: url(../links/images/line_horz.gif);
-	background-repeat: repeat-x;
-}Ô_5http://www.farhills.org/links/scripts/flash_detect.jsObplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_5http://www.farhills.org/links/scripts/flash_detect.jsÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“|ÔÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=100UbytesZWebServerX_application/x-javascript_Fri, 14 Mar 2008 17:00:56 GMTT2178_"36f966c-882-442a9bbc"_Wed, 29 Mar 2006 14:37:48 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary‚Ò./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-DIR]`foxz‰”– ¢¤¦¨ª¬®°²¼¾ÀÂÄÆÈÊÌÎÙçîû -CITo”­ÍÒÖìùü             g              '_application/x-javascriptO‚// Flash Version Detector  v1.2.1
-// documentation: http://www.dithered.com/javascript/flash_detect/index.html
-// license: http://creativecommons.org/licenses/by/1.0/
-// code by Chris Nott (chris[at]dithered[dot]com)
-// with VBScript code from Alastair Hamilton (now somewhat modified)
-
-
-function isDefined(property) {
-  return (typeof property != 'undefined');
-}
-
-var flashVersion = 0;
-function getFlashVersion() {
-	var latestFlashVersion = 8;
-   var agent = navigator.userAgent.toLowerCase(); 
-	
-   // NS3 needs flashVersion to be a local variable
-   if (agent.indexOf("mozilla/3") != -1 && agent.indexOf("msie") == -1) {
-      flashVersion = 0;
-   }
-   
-	// NS3+, Opera3+, IE5+ Mac (support plugin array):  check for Flash plugin in plugin array
-	if (navigator.plugins != null && navigator.plugins.length > 0) {
-		var flashPlugin = navigator.plugins['Shockwave Flash'];
-		if (typeof flashPlugin == 'object') { 
-			for (var i = latestFlashVersion; i >= 3; i--) {
-            if (flashPlugin.description.indexOf(i + '.') != -1) {
-               flashVersion = i;
-               break;
-            }
-         }
-		}
-	}
-
-	// IE4+ Win32:  attempt to create an ActiveX object using VBScript
-	else if (agent.indexOf("msie") != -1 && parseInt(navigator.appVersion) >= 4 && agent.indexOf("win")!=-1 && agent.indexOf("16bit")==-1) {
-	   var doc = '<scr' + 'ipt language="VBScript"\> \n';
-      doc += 'On Error Resume Next \n';
-      doc += 'Dim obFlash \n';
-      doc += 'For i = ' + latestFlashVersion + ' To 3 Step -1 \n';
-      doc += '   Set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash." & i) \n';
-      doc += '   If IsObject(obFlash) Then \n';
-      doc += '      flashVersion = i \n';
-      doc += '      Exit For \n';
-      doc += '   End If \n';
-      doc += 'Next \n';
-      doc += '</scr' + 'ipt\> \n';
-      document.write(doc);
-   }
-		
-	// WebTV 2.5 supports flash 3
-	else if (agent.indexOf("webtv/2.5") != -1) flashVersion = 3;
-
-	// older WebTV supports flash 2
-	else if (agent.indexOf("webtv") != -1) flashVersion = 2;
-
-	// Can't detect in all other cases
-	else {
-		flashVersion = flashVersion_DONTKNOW;
-	}
-
-	return flashVersion;
-}
-
-flashVersion_DONTKNOW = -1;Ô_6http://www.farhills.org/Scripts/AC_RunActiveContent.jsObplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_6http://www.farhills.org/Scripts/AC_RunActiveContent.jsÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“=—ÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=99UbytesZWebServerX_application/x-javascript_Fri, 14 Mar 2008 17:00:56 GMTT3233_"36f97a3-ca1-448d6699"_Mon, 12 Jun 2006 13:05:29 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary¡Ò./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-EJS^agpy{‚Š•—¡£¥§©«­¯±³½¿ÁÃÅÇÉËÍÏÚèïü .CITo”­ÍÒÖìùü             g              'O¡//v1.0
-//Copyright 2006 Adobe Systems, Inc. All rights reserved.
-function AC_AddExtension(src, ext)
-{
-  if (src.indexOf('?') != -1)
-    return src.replace(/\?/, ext+'?'); 
-  else
-    return src + ext;
-}
-
-function AC_Generateobj(objAttrs, params, embedAttrs) 
-{ 
-  var str = '<object ';
-  for (var i in objAttrs)
-    str += i + '="' + objAttrs[i] + '" ';
-  str += '>';
-  for (var i in params)
-    str += '<param name="' + i + '" value="' + params[i] + '" /> ';
-  str += '<embed ';
-  for (var i in embedAttrs)
-    str += i + '="' + embedAttrs[i] + '" ';
-  str += ' ></embed></object>';
-
-  document.write(str);
-}
-
-function AC_FL_RunContent(){
-  var ret = 
-    AC_GetArgs
-    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
-     , "application/x-shockwave-flash"
-    );
-  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
-}
-
-function AC_SW_RunContent(){
-  var ret = 
-    AC_GetArgs
-    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
-     , null
-    );
-  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
-}
-
-function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
-  var ret = new Object();
-  ret.embedAttrs = new Object();
-  ret.params = new Object();
-  ret.objAttrs = new Object();
-  for (var i=0; i < args.length; i=i+2){
-    var currArg = args[i].toLowerCase();    
-
-    switch (currArg){	
-      case "classid":
-        break;
-      case "pluginspage":
-        ret.embedAttrs[args[i]] = args[i+1];
-        break;
-      case "src":
-      case "movie":	
-        args[i+1] = AC_AddExtension(args[i+1], ext);
-        ret.embedAttrs["src"] = args[i+1];
-        ret.params[srcParamName] = args[i+1];
-        break;
-      case "onafterupdate":
-      case "onbeforeupdate":
-      case "onblur":
-      case "oncellchange":
-      case "onclick":
-      case "ondblClick":
-      case "ondrag":
-      case "ondragend":
-      case "ondragenter":
-      case "ondragleave":
-      case "ondragover":
-      case "ondrop":
-      case "onfinish":
-      case "onfocus":
-      case "onhelp":
-      case "onmousedown":
-      case "onmouseup":
-      case "onmouseover":
-      case "onmousemove":
-      case "onmouseout":
-      case "onkeypress":
-      case "onkeydown":
-      case "onkeyup":
-      case "onload":
-      case "onlosecapture":
-      case "onpropertychange":
-      case "onreadystatechange":
-      case "onrowsdelete":
-      case "onrowenter":
-      case "onrowexit":
-      case "onrowsinserted":
-      case "onstart":
-      case "onscroll":
-      case "onbeforeeditfocus":
-      case "onactivate":
-      case "onbeforedeactivate":
-      case "ondeactivate":
-      case "type":
-      case "codebase":
-        ret.objAttrs[args[i]] = args[i+1];
-        break;
-      case "width":
-      case "height":
-      case "align":
-      case "vspace": 
-      case "hspace":
-      case "class":
-      case "title":
-      case "accesskey":
-      case "name":
-      case "id":
-      case "tabindex":
-        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
-        break;
-      default:
-        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
-    }
-  }
-  ret.objAttrs["classid"] = classid;
-  if (mimeType) ret.embedAttrs["type"] = mimeType;
-  return ret;
-}
-Ô !"_0http://www.farhills.org/links/images/topfade.gifOýbplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_0http://www.farhills.org/links/images/topfade.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“eÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=99UbytesZWebServerXYimage/gif_Fri, 14 Mar 2008 17:00:56 GMTS564_"36f963d-234-47846311"_Wed, 09 Jan 2008 06:00:49 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary4Ò./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-?DMX[ajsu|„‘›Ÿ¡£¥§©«­·¹»½¿ÁÃÅÇÉÔâéöû
-(=CNXx|•µº¾Ôáäéí             g              Yimage/gifO4GIF89aJ d Ä  ûûûãèëàåèæêíþþþùúúüüüÕÜà÷øøòóôÙßãðòóóõõö÷øéìîþþýùùúÑÙÞîðòúúûìîðÝâæõö÷þþÿýýýÿÿÿ                  !ù     ,    J d  ÿ`$Ždižhª®èá¾p,Ïtmß´¢ï|ïÿÀ p¬È¤rÉl:ŸLtJ­Z¯Ø¬v‹x¿à°xL.›ÏäzÍn»ßð¸|wØïø¼~Ïïûÿ|‚ƒ„…†‡ˆ‰Š‹ˆŽ‘’“”•–—”š›œžŸ ¡¢£ 	¦§¨©ª«¬­®¯¬²³´µ¶·¸¹º»¸¾¿ÀÁÂÃÄÅÆÇÄÊËÌÍÎÏÐÑÒÓÐÖ×ØÙÚÛÜÝÞßÜâãäåæçèéêëèîïðñòóôõö÷ôúûüýþÿ 
-€Áƒ*\È°¡Ã‡HœH±¢Å‹3jÜˆƒÇ CŠI²¤É“(S±ª\É²¥Ë—0Q>˜I³¦Í›8sêÜÉ3'Ÿ@ƒ
-J´¨Ñ£H‹^XÊ´©Ó§P£JJµªÕ«X³jÝÊµkÕ`ÃŠK¶¬Ù³hÓª]Ë¶­Û·pãÊK·®Ý»xóêÝË·¯ß¿€L¸°áÃˆ+^Ì¸±ãÇ#KžL¹²åË˜3kÞÌ¹³çÏ C‹Mº´éÓ¨S«^Íºµë×°cËžM»¶íÛ¸sëÞÍ»·ïßÀƒN<C ;Ô$%!&_.http://www.farhills.org/links/images/blank.gifOûbplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_.http://www.farhills.org/links/images/blank.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“f§ðÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=98UbytesZWebServerXYimage/gif_Fri, 14 Mar 2008 17:00:56 GMTS807_"36f9633-327-47846303"_Wed, 09 Jan 2008 06:00:35 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary'Ò./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-=BKVY_hqsz‚™›Ÿ¡£¥§©«µ·¹»½¿ÁÃÅÇÒàçôù&;ALVvz“³¸¼Òßâçëÿ             g              O'GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;Ô()!*_-http://www.farhills.org/links/images/logo.gifOübplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_-http://www.farhills.org/links/images/logo.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“zÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=100UbytesZWebServerXYimage/gif_Fri, 14 Mar 2008 17:00:57 GMTT2543_"36f9636-9ef-47846308"_Wed, 09 Jan 2008 06:00:40 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary	ïÒ./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-<AJUX^gpryŒŽ˜šœž ¢¤¦¨ª´¶¸º¼¾ÀÂÄÆÑßæóø%;ALVv{”´¹½Óàãèì              g              O	ïGIF89a› d Õ  ƒ™¦¼	Á¿Ìðòóîðò÷øøàåèìîðõö÷ùùúþþýÝâæÑÙÞãèëüüüÙßãæêíûûûö÷øóõõùúúÕÜàéìîòóôúúûþþþF@gðïòàßæ¢Ÿ³²¯¿60Z' Me`€ÑÏÙ“¦AtpUPtÒÝ„ô÷à¬Àùûð¼ÍGîòÑÈÕféîÁÝæ¢ãê²ÂÑVÍÙu±Ä(Øâ“·É7øúð¼ÍFÒÝƒÝå¢èíÁ·È7þþÿýýý 4ÿÿÿ!ù     ,    › d  ÿ@†pH,È¤rÉl:ŸÐ¨°B­Z¯Ø¬vËíz¿à°xL}˜Ïè´zÍn»ßð¸|N¯›ø¼~Ïïûÿ€‚ƒ„…†‡xŠ‹ŒŽ‘’“”•–—˜™ŠœžŸ ¡¢£¤¥¦§¨©ª«œ®¯°±²³´µ¶·¸¹º»¼½®ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÀÒÓÔÕÖ×ØÙÚÛÜÝÞßàáÒäåæçèéêëìíîïðñòóäö÷øùúûüýþÿ 
-H° ½*\È°¡Ã‡#JœH±¢Å‹'hÜÈ±£Ç CŠI²¤É“(SjDÀ²¥Ë—0cÊœI³¦Í›8sêÜÉR‚ÏÿŸ@ƒ
-J´¨Ñ£H“*]Ê´©ÏP£JJµªÕ«X³jÝÊµ«×¯PˆK¶¬Ù³hÓª]Ë¶­Û·pãŠ¥@·®Ý»xóêÝË·¯ß¿€LƒáÃˆ+^Ì¸±ãÇ#KžL¹²á˜3kÞÌ¹³çÏ C‹Mº´éÓ˜¨^Íºµë×°cËžM»¶íÛ¸s«îÁ»·ïßÀƒN¼¸ñãÈ“+_Î¼¹óçÐ£KŸN½ºõëØhßÎ½»÷ïàÃ‹O¾¼ùóèÓkÏÀ¾½û÷ðãËŸO¿¾ýûøó·×‘Ž7(C6è÷&¨à‚6èàƒF(á„Rƒ; á†ÿÂ	6T(âˆ$–hâ‰²ÐB
-¶Øá!¢(ãŒ4Ö¡+¸¨c‡3ÄXá@)äDiä‘H&©ä’LéBŽ;F¹á
-MViå•X
-é'œÐÂ
-+Èp*dY$
--¸˜B˜'¼àÂ›p¾pB,nHƒ™xæi%
-/´Pƒ”Äà‚ž4Ô¹a/°Ð$izX¦žF$2Ì h‹+ %Pjˆ¨™(ÄÀ’–j&¥–^ªc
-wZyÂ†)È ©ž0Piê­KªðÂŸ.®ÐÂ	ožy!¯´ð¨’.¤úá±*Šë³gž`¨†3´@ƒ³Mª¨a³ª†ËB+.´hv¸Âµy¢ÿc
-0©­†ÆŽ+¯©åú³´ZºB»@²@¯v;ïÀxÖ@÷>«Â	©r˜Â§GlæÂ,Î ëÀ,pé&¶Gn  ’"p ñ"WY2“/°¸©IŠ°A‘œä"ùñ•€àƒ‘ à #kàÃÐDm4Ñ/+Éi±#ytÑéóÓCß¼¤ %èìCÔBn0‚	D{0òŒ@BÑ&  öÚ!„­¤´'4¤Ç%M V)BÎh{ s˜7uÍu"h]õØ@
-@ô<àC	H²PÃ	øVYøäIzðø‘mo]äZ.äD.±á ¹‘4`ž§ãCÿ2Ñ¶9µ5Y¸éAn:ã@²~¤ãI©BæXÒþ³’¸wLÂÝÉ95ðAO¼ñGð·©Îç~dôGºÜýÐØ¿øöè7)ÂÚßKÝÁ^ ¶Íä;]ûÜ%Ü/uûEÒÞ:°6TÏTÜûÁÒ' Åm~E€Ððv¶¡ùoHáƒÞþŒ´¾©î×3’ ”8£¥/R	öêF‚Žh€â$W4ñ	)ƒIÊŸ8‚
-úàƒ!àúHx¶ ©> ´¸· /tþÓšMàC|@†Äßõ÷<"‰€†C´ ‰4B¡í,Hm[âÐ> €²IÎt"€a~G$á¡ÿïeðÀG4Ê!	‡EB]ƒD2†qh ¸áqE5Î‘b‘ÌhÃã5ò’•|ä TÈ!p„{„”ñ6Ð6àÀ{‘L%™ä<Áµñ•°Àî2ÉÇ¡©“BúäÐHpA5JH 8¡BgÄIn1I€ß11H´[ŽÑ“aÑL¿R%°ÂäÀÀ˜ÉU^M‡"\¦"m©»gæ2Œ¨bŸ•À¤‡C3‹äM%%3œë$’óœùKhþpH ã(©ò“š?¨§úGp
-1ŸÌ$'‘p™½Mþ€oD+æ­J¤Ð HRHµÑ‡Ò’lÍ,g?ÏùÏÑíÎÿ¥9IŠ3¡7 CYRM.ò+­hKé×» !Ñ¢zâèBŸ9Ò‘ê4§ÁÛi-aªÒ
-P $8 MÅ¥ÚÔŠÁ«`&µ¦Ñ$µ§ãô	,iÑÐ½S€]µaMKEÊ¢}ÔH¡óÁG= F˜Íjg%A(ƒÐÇU“~yj×¤éƒt»$¨ óù@£VVR (Ñœ¨:ç‰ýÀËD Î$uHò|Úü$˜ÑhN<ÙKó§*Æöˆš½"h¨ ®¬" Ú^)\ œ¶µZ ^–YÐ&­g#€å)«¹¶è¶ñ” € à
-ØÆâžL–zl£ìGH X»%“ÿ¥ýÚ¨6Ž÷µ&è%ñæKßúÚ÷¾øÍ¯~÷Ë$„ õZL AYÞì}ó#`ÉÆË^ã¾Ï{æÒxG°öþ mkÃ›Ú8 ÞþWp=Ã[ˆõ¨6<8ÄæMš >,€·XmòØ6_6‚ùi€rè­H_—Æâù1˜@ú/'_æ9?rÍ‰ÄZB=@J‚`9N’E&Kùu:áËÜùƒì"¯•%ü:âñ2xqœP7—é,HP"’¹¦6N6u6nœé4·›à´Ð.s¹&A‘ÚÎv…ÖÀG¼1“M˜ûé£säÿÖøŒ=AB°@Nºq@"—ÿ'Ò¼uõ®ÙœÕ¦BCÛ™lÁäšbA¨\ ´z¾g&a“æ5óÙ‰?8£z?‚BƒðÓýXHHR‹tp³ö2âmì´½Z‚Ë~£IHmHÏ«Y(#n€Ñ"0¢_»Z³³;gD3ÖÊæûÝÉÉ“vT{ÙëšŽÍ¯7n7ÀCNBNkí÷¤Kð2O½Æ=âp=- &ÃoÃ±{7L6Žÿ@l—8*EîÅº8äUÛË4Žà<XÄÃE9gNóšÛüæ8Ï¹ÎwÎóžûüç@ºÐ‡Nô¢ýèHOºÒ—Îô¦;ýéPºÔ§Nõª[ýêXÏºÖ·Îõ®{ýë`»Ø¯ ;Ô,-!._0http://www.farhills.org/links/images/img_101.gifOýbplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_0http://www.farhills.org/links/images/img_101.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“h9ÎÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=98UbytesZWebServerXYimage/gif_Fri, 14 Mar 2008 17:00:56 GMTS324_"36f9634-144-47846307"_Wed, 09 Jan 2008 06:00:39 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionaryDÒ./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-?DMX[ajsu|„‘›Ÿ¡£¥§©«­·¹»½¿ÁÃÅÇÉÔâéöû
-(=CNXx|•µº¾Ôáäéí             g              ODGIF89a$ $ ¢  ¯¯¯°°°¸¸¸¹¹¹ÙÙÙ         !ù     ,    $ $  ÿH42úâ¹·]F5+ì†ÊÖqÔ ¦—yMÓ6Jf‹4Êu'^ò©Æë¢Ëw’©vc9›Å ­#-¦ªµdÓö®˜I5+À"XV^©ŸºˆPCl®Š–ÜývïU*~'sE…F{>{<oF\†‡q!mg2˜ZP˜hQ\bOhœLh€ª‘|G±~x±KH?I9K.¸)Š1’736! ¯ƒ”=Á@·´•JŠÂ-ÓÆu™(Tu¬7£fßàÚ
-cU^Îé¥Ê/­P³:Œ¹vÍˆ‘„„¯"r¦Ë×Ç—‘j¦-qHAs:´˜ØÖ[6yã\¥"‘	c†%Þ  ;Ô012_1http://www.farhills.org/links/scripts/ieupdate.jsObplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_1http://www.farhills.org/links/scripts/ieupdate.jsÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“‡ïÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=97UbytesZWebServerX_application/x-javascript_Fri, 14 Mar 2008 17:00:57 GMTS152_"36f9672-98-454fe393"_Tue, 07 Nov 2006 01:38:27 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary˜Ò./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-@ENY\bktv}…’œž ¢¤¦¨ª¬®¸º¼¾ÀÂÄÆÈÊÕãê÷ü)>DOjŠŽ¦ÆËÏåòôùý             g              O˜theObjects = document.getElementsByTagName("object");
-for (var i = 0; i < theObjects.length; i++) {
-theObjects[i].outerHTML = theObjects[i].outerHTML;
-}Ô45!6_3http://www.farhills.org/links/images/quicklinks.gifO bplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_3http://www.farhills.org/links/images/quicklinks.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“«‹¬ÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=97UbytesZWebServerXYimage/gif_Fri, 14 Mar 2008 17:00:57 GMTS295_"36f9638-127-4784630a"_Wed, 09 Jan 2008 06:00:42 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary'Ò./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-BGP[^dmvx‡’”ž ¢¤¦¨ª¬®°º¼¾ÀÂÄÆÈÊÌ×åìùþ+@FQ[{˜¸½Á×äçìð             g              O'GIF89a– # ¢  ÙÙÙõõõâââììì¦¼	ÿÿÿ      !ù     ,    – #  ìXºÜþ0ÊI«½8ëÍ»ÿ`(Ždižhª®lë¾p,Ïtmßx®ï|ïÿÀ pH,ÈaÉ 4œ¨b)>­WìZÅR»É‰tœ%O·Ís¹ÊMkßáH·í¦£µæ:^½¿Ç%s|jvenzf„`€…zphtN`_‹bw„M”†šSŠ—ƒ¢‘›vyŸgª~¥~l²´‚›^œ¶º±£LlL¯TžV_¾‚¸uÂ¼ËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝ—  
-àâäãáçæèåéìêîëòñôíöð ùéæþýþ	HŸAH  ;Ô89!:_/http://www.farhills.org/images/WomenofFaith.gifOýbplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_/http://www.farhills.org/images/WomenofFaith.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“éb(ÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=95UbytesZWebServerXYimage/gif_Fri, 14 Mar 2008 17:00:57 GMTT2325_"2530008-915-47b1c9ce"_Tue, 12 Feb 2008 16:31:10 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary	Ò./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
->CLWZ`irt{ƒŽšœž ¢¤¦¨ª¬¶¸º¼¾ÀÂÄÆÈÓáèõú	'<BMWw|•µº¾Ôáäéí             g              O	GIF89a2 Õ  =<8øúûŒ£¶Yy•ÌÕÞUUS™™™»º¹{{xêîòx’©¶¶µfff¢´Ä¦¦¤_][àæëJJGcœÌÌÌñõøÁÍ×ÛÛÛ¬¼Ê™™™€~—«½ççæÖÞånŠ¢ƒ›°¶ÄÐÂÂÁwurñññ««ªˆ‡…ROMfffWURÿÿÿBB:øø÷††„ÅÄÃ™¬¾À¿¿b`^Š‰‡YXT                                          !ù ÿ ,    2  ÿ@”pH,È¤rÉl:ŸÐ¨tJ­Z¯Ø¬vËíz¿à°xL.›Ïè´zÍn»ßð¸|N¯Ûïø¼~Ïï~‚ƒ„…†‡ˆQ‰ŒŽ‘’“”•–—˜`		H
-¢™¬‘
-**E
-D›¸­Áˆ*G³BH*ÂÒ„Ì
-«ÉÕ*I›Óßz	±K	Å
-ÛJ×àìsÌëHðÉí÷Y*,,U
-M„bòá
-ÈPL0ÀÐÀH@@4baACD6Œ` €FlHÂ`“ˆTlÈÒÀ
-ŒB
-LLbaÄEY&ØlÉÒˆÿ~G6\ ‚ƒ<y"ÊpÁÈ""˜ ª¢Ä‰/FPñ`p(z	ñÂ#Ð#ž1;D„ $ÎZ0ÐÑ N# L61j„ÁG–eÏ`Ðä-	."
-ümˆ Âá"±àññ0 ˜ÌÊÑñ…Ê Ñ"„ÂS$ÌÂa€Aˆ€`{d·V$©Û¾x¡6cÙ3‡|lB6‘·Î…üT—É )¹ø®0ûÊ”xÌ®ºˆ_ïB,À>¿d¼"20Øð`+0,*èEÀ÷G €iA Y/ÜuY D  
-x“o…WtEœ…‚GØ-qÿzY`xá…éµV‡·Z‡æ­¢eeÇ !8™Ü‡BAYT KBÈSƒ-È¡ŠÒYˆ‘.ØQt×¹„b ø$%peå¥Ä‡HÌÕ”‚L ¦˜ '¢Œ€@y'¾8{HÀI‹U°  8áŽ	øW`Œ7*ÀRÄ±@DþVÄå]ÇopV”–*±@G <ˆÂ™kMå„Fp	Œ$¢Ž¾%æ	>weDzä)uŽöÅârÆ¹«>4©„ð¨3E*hÞ  ñF#ÜI "h¹¤¶Kd\’²yÄœe*ë¤ÿMÀÿ`É©ÄíXÈaAÙ½õ‰èAÂag.¯»êê&½JáA4D@ AÈ#è ÜW ¹A0
-Ùnà­Šwâ´±DV)Ý|!)Äu"øÕ$¨xõ3oƒ&oØäfG Ú½”ÎŠFÖú+ì›´yC?áð4@ÏÈ*»¬=CL,h³çJ`¿ú–·›È…y4„ù%Ù‡ù•ë§:aîË±¶m»C8†v,‚…ÞÂ½á¿Ï90Ð7!T©£	8ü°³¡ ÍÃ]Ù(/èÕ3èUéQuc”HF8Ò[ ¾õÂ˜bŠûïÞÊ7¢$0÷XÉ™Žÿúc“À&‘nJÛ·¯˜&|fuY!µmD¨pAáC(ÿ° J'ÿÊÃŸ8a„w}œ O	Èµu¼‘SÐºKW¬dFet äŠèùéÊJw•ÐV{ƒ™eÉ5i&Þ);^|#Úßü‚€ÛP1k‚ÖÙ¨€ Ìã ,µ'_T`x7ˆkŸº–÷8ÇÝÉAØŠ PXª0`&óÞØd&¿œÍž©Ú6/t¬-àÏ\ä·%l
-Š€ Ð&^àaÐ Âôó¼ˆ1	ˆºVLäÃ!+œ\:'‘&`¸Ön¸Ã²•ñE!ãâë  ·%ÿg2“Îø²¤ô	¯#3ÜÛqX4B&ðˆSà e‡C*øÀ"¥€0/	ê
-æ•’aŒ{C`Ý ‹Àº“ýë-ÿ‹‰‰¢„/ñ¼ˆAÜâ[„Î6„4ÝÐJÜÙ D²õÔUÊS¾`•€H*p€Š¸"(‰Žé=L¸$c²_‹ŠV!I©Ñr©TˆÍ—¯7.¨,ì*c“P€[M …xÄ%~ˆ­©-€Bà6é„@m	Ô}jÓ!èâaƒ‚J=CÕ£–Ó„²XŽoúŸøþÊ0–sCÛ@GÒ@‘® */€I<[y\K_ÿ:f>‡IÓ%ÔFKKž "„@-qGüÀ™v8É94œ@ä^:‰À:."!B©\i&ðN`ò­nÿùÛ²%,"Á¦Îò–˜au–½ñ$uYL~sŸD(%OÁ#ä§;1¦¡ÁÅÐ ¿rØR „ ©B@ç­Š°‚S~Ob€D‹ÐRÕMAÛd>Ós‘ŒŒi±XETÌŠ‡«š
-S	1zB~ž÷ÌU áVËÈ"d£pZÅ”²:²ÎM[MÂÐã#d²£3õ¨L´Ï­mÖ
-Û×KIN ,@Ã.GøW¹²Ö¸b>0€
-ÐÖDÀÿÍwŸéW# 
-±I}èwJ£7D¨,‚ŸÐÄõË}ò£•é¢+¯B¢ÆQÖ…QÚ¾¸àíJ7N«báæ,A-låX/_ÛkÜöñ¾;ôKjÊ´ÉE IBa"ô3Ÿ%K lv£bM=·
-Tzƒ§˜tF)_Þj§‘>²X!drºP€ *pP±¼C˜Åpa!|`‚¬U€4 X&0`”aÂ\D< È·&Ûôf‘¦L ÍQ@Àu-aÍ[ÐHq"•!º¥!;aÈPèéd¤Ð?ó’ G™äÈBh,þ©‚€‚&>6M‡l¡UV˜¦29Mj;@@¨kÞ?KÍêpLlÔ­Žµ<PeYÛ:Œ»µ®ñP½]ûZ]þµ°‡MlD ;Ô<=>?_9http://www.farhills.org/links/images/SMhorizontal_ad4.jpgO	bplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_9http://www.farhills.org/links/images/SMhorizontal_ad4.jpgÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“°«ÖÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=96UbytesZWebServerXZimage/jpeg_Fri, 14 Mar 2008 17:00:57 GMTT7416_"36f9665-1cf8-4784630d"_Wed, 09 Jan 2008 06:00:45 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionaryøÒ./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-HMVadjs|~…˜š¤¦¨ª¬®°²´¶ÀÂÄÆÈÊÌÎÐÒÝëòÿ#1FLWb‚‡¡ÁÆÊàíðõù             g              Zimage/jpegOøÿØÿà JFIF   d d  ÿì Ducky     <  ÿî Adobe dÀ   ÿÛ „ 		
-
-
-
-ÿÀ  d – ÿÄ                                !1AQ"aq2B#‘¡±ðÁR3áb‚’C$rS%      !1AQ"2aq‘¡±ÁðB#‚¢Ñr3C$ÿÚ   ? ×·¥ÕìÀPíÖŸ×^ÏJ%ódmm!Îâ$©Uf­M:Nº„Ê
-IÒ½´¹	,wÈT¶Ì:¹: ÀÁe"{%‘´e¶Hæ_Ô¯U*‘!Z–£Ø1¤´C)¹L½Ä¥âºXaãÊÞ8ÈäÃo­È`?¡y`¨í^ç³ö‚Ý‚©¥\p0>là×Èi6Zêc’¤a˜½ÃÜ72¥Ó	M$j«×¦Ài^w'¬1JÓK†\¢ZF2s;\nBµ	·ÒµñÜëuyÇÅ2ØW?t$–ãÓŠòÚ¿OòÓ¢eq‹·¸Ž0‡p¨KSzu?,nï‰g ·1GÆŠ¾šôÜ×Va#Ì.’¬`ºGéwèŠê7ŽÛxÓBZY»¬­µ¥¨š[ˆâåFŽ£™m¿*ƒ]8¬µBOHßrß¤ìÍ@Ÿ
-þzWÔƒÚ3éÌõÎc!ä/a&„“î*•o§oCéK¥ŽÔ\
-ÄpãB&ƒ‹4YÒ^5Äæ?veuOL»ë¸OŽ«0—ÁJ…I2 <h|~z¢eH±@	÷FëRüM¥:Wá©+tùDyü­¼REôêÓ“s5 ôåZh±5¦N×º3P•ï^P¡”G)æ¦¢‡nµùjí&j»Zó%?¹&>¢i’ÎTÑ|wj“ê:Í±·`@´¨ë›Ûk·+<RÊ…ÖÑeãÅ™"ÕâNÇa]5j#¬Vìü²îÞKèÖ{› -‹1ãb%R<Tøu;jë¨¬«\ w¿¸f;€ZµVÞ5ôÌÀðhXÔR¬[m•—lCWTLÍ&?	‰´Q)_zqSî1"¦”¥ÓŠ£íˆkÉ„G{/·YâHØ*+ øìºhˆ§2Çca’R¢†¤r> 0šŽázÈˆ[¤Êd³7´ŽúK—;þ•¼n:òaJSjb`Ç\Íhbÿ ï'†Ø‘¥¹ÛŸ¾E+×‰@ƒ|tÐÍ/Â	€ŽðÊËD„¸ª Wç±æ´¡ëã¥1h~5’žïÝŽñ…1'ÃÆ¦ |— Ös	ZÝ  Ô{`|ÇóÕ–LC™õòaN'o*Ž½u®$ÌUÄ«Fdi#U¢BXñ;ja™3=åÜmúsIPñàäŽÀõÔÀ‚LscŸ»‘E½Üò‘Å˜+VžÔéMíÌÉ™6W04ŽÒ)R““î( ¾ÃÆ—¬¢«™†K<”èé$u~¼I¡ë×ÏZÍˆ½±Už’m‡Êˆ¶¯¨¬¿”†éêÕyÓ®skƒŒMFã?Žal$‰mfaîs'Ñ¶ì(4•å ’Þ+7¦bŒñî<žHI¿9#bX‰fâ†¡¾gN[ë:“-(uOÚ2w/Ú4nfX™yžfµ*O!ó:!uC¼Ï}Nq4–6Ùæf?oÀ!—p½|¼õ"¡Þg(ÆÐ÷LIµ)Û’2°ù´kÉ«ÖF‚å,;«ÛcGÉÕ¹0Z
-­7-¤·6¿¶5)1.Zó)´Isj“LÔBKFXQ—“}$èO2¦Ò9xÖgHºY²ÏŽööþÄ0ô>à,õY¨7óÒ›“WA8ög&g®1™„ýAe¤F­n¬é˜ÑUž’«K³¢6ZÈ[‰ïþ*4o^F{EÁÁÿ ¼åQØŠ€ž›ÿ ôƒXe‡'¤¨ÜÎTD‘»‚H„šøŽ: ƒ®e>’¼Ž+4öêÞß&¡d`¯øJï¬7XÅ©ÌOö€ˆ6ªEu«Ë^3˜F›=$â‡!Ô.m}Þ,©*vSã¹ÛmVôÇX³Už“èx;kÛøCÆ°Á ±r…|vWÕTyé°u‚EÛ]Õöóâ¤eöy¯³qÍií–äËçáå¡úš±×ô–U³˜­,ÉÀ‚j9‚zŽž:Æ^uó[É˜G¨
-~£çòèt¿ÔÊÌemhÙÞàÆa¢c÷2˜¤¹R–è9Ë'ˆü¶{Üá{L\›¼HZ½³&¸ò6SÊþæ:àû.@<¡qXÜ×oTl*|ë¢÷1¦Â£¤9^DÌ?fÅn3ŽÑâ±/²·å9Íu ØEo Èj§r@ÓèöòS{©ýt™îåk°jaâ[>ãZdä_þÓ<1¹ÇÛ:—-@Ü`q†üÇý"ˆ³ÔKå61Ccqissc…P°¤ðÍ(xå¯§£‚)­q¸ê¡Áb§îŠK,$ƒŒ‰Ümµ†jL¼ç!jq6Ÿw:ºÀÞâzý+A±ôxé¼N‚Fí>è6Üõ‘ÓYžíœ/odþÙV|¥¤—ˆZÔN–í0Bë²î¼©A¶‘_cmËøMVr­Q?X5•”°Ùæòq¶Nf·Æcmø¬ó´@û®ò8dŽ4*Ex’tµöÔJü–tì6æ36ÕÆGS9wˆíkÌNFë=Ý¥íƒî­îY&C®ÝŠTXÏÔB¶Ú³U-Qzó•ìa×}Ë`¨0L&"Ùñ÷Ç
-.B2%{†«dïúl+]·®¹6ØN™Òt àúþòxÜtÙkø1Ñå,ñ×7S-ÖèÉÎFzm¢0¯Ìlöþ ¼õ#•Êñà™ëø¿Ä½Àž||â0RˆU$Ò­N¾zG;‰á°¯\Cã_å@Ñ~rá}†¸z±Z°©ªº•Ò8ë®#ÁøÕÇXcò}É-Ë!¸ÆØZÀ..ZÝh=ù9¼)5}#‘'^ƒþ9sŒÌG˜]ŠÖ3ˆnK·î±ÖØÜ­¬ë•ÂæQ¤±ÈDª}qÍ	,QÒ›îFÇYù¼†*eñ¹›Ø©a6µa%¾-îy,Ê³ ÝG]ƒ½	×	¥ÜÀ¶#gºˆ{rTp(X
-Ž?I=iÓã¡‹>]—•	Š8¶Ô>×¤Þcq÷ÏÉÒeQZ²
-"á·Ãehd2Xûk™ïó.,-$µŠI0BD×TœÝQýZô]),K~ç—rµ›IÑc¿îŒ™+žØíÞò’Ö[+ËèãÅæ£–6ŠHå$„r¬Ÿ0	ð+®;æ
-ø×¼ÇÅ³aeü£ŸîLZwWnàâŽ7i-aEý²iâBÆ?Ž²ûáÚª£¤g·Û˜õ’Y¹2=$P¾¼©3¢DœQÄ¤q;X£mBz‘ó§]´ãÒÝs#Û7ùžò
-¢©†¼·í¯OìzÖÿ tÁÍ+÷ÏŸà²×¯‹¶÷¥wY£ˆâAA¶¼ÝÎVÃYÚZT¬Ób{‹±ï{zÏ¶;†i1‚Âg›™ŒBÌXñ‘¨Ê¿Y—¥‡‘×¥áòêº¡Uš9Ž5µ¹uÖWÝÝ§’Áâ†L‹|¦Êÿ ý{=Â£šHêÂŒiêRF°ó}«åfŽ';smmKŒ¸½Q<¶Ä¤|ºWéà~6®¼ûi:íƒŒÊpÒ3÷ÇjÕhßºAÈÒ¦œ¶ßË]Ÿdæ'¸ñºs»#y?¸½Ï]À¾!Að>Úž›ïDŒ¯nÿ Â$;ŽË³±í%´»¹né•‚ß[8mPÔI±Wn,§èÍ¼aJ•?ä‰G¸ÚAù#Qnr;/Ù{–í^áÄ¨Åâò÷!VÊûŠÓ„|Ù=ÁèõqÝøÖšï[«´œòÏE‡oÄ¯>ù®ØÉöïgä,×·ñ
-æÊü°a4Çõn*ž•¤4ˆî ïá®g¼«-A øDÓÁagÏÄfŽ+s¡‚(ŒÌ[¨oÊ€ôòDÍ¤ääÊÌ6æ!lû*¾Ûz‡*Æ•ùjv…“œÌ­¼Á³°¤¼C8ØºÖ¾M'"hfÊæ?ÉÛ‰ÚÃo%íô¼cÆ¤¢´†•v`?1Ó¸œvµÀaµÂ.N“Ù˜.-;p¨×VXü$XZ-dg`¾ä³-ÎG;ë±î–½LrF&^*Ž¤ëí,=Î{Ý=‘zóÏg“·ûÌ}ì¥äHn…ÜnT!Än|ºÓ{]YV™yŠƒ	+«¼§wâ1³ËjÖÿ Ûªðdð· Å%Ô[	$·/ÄH uãñUw:¨¯û´ÄÙþÃÞ/Žþî"¶ïk:]Sx=ÎCò• myCÂ°60s÷N©¹HÎa¹ÈâqÐM„ÛänýËˆìÛ¬VÑ ªÒ­ÜÖž kO+ƒá¬ùÛ·ÙM¾GÀùdÿ µøüÅåÇwÜý¤Â¬jÛÛNèÈ³JÂ]°õu§ž»>ÇC-M‘Ög÷+rã´ùä0äm11Ãqo%¥Â E2´rm±X¯7}Em!„ìÔá—"–íë«L^'?km5æ)l<Ê¦CÊŽG Qé^`•$|:ë§Èöâ:t#õï3UÌŠ7Pc~Ã–ãÙ]×mz,ViÛcp}Û©‘ÒW…òH]€¦Þzèñ¯jøÍäôÒaä k—gn±v-î1rÇÉG»”–6Ü0"Œ¤|uä\äé;›C,aŠîëÀ^­ „Ç“Uã4FâÕúzzzW]ogÒå˜}Ã"²3ÚÞ¸ì•Ÿ~÷ÌðK77Eí¥eeW_m%'b>Z½¡òçJöÛGˆ	N{µû™;*á+íùQ$&ã‹W…E8ú©Ð¼t	íf´[Xü0O5K”e¿ÞRä²˜LÖ:#sÚM‹ŽÓöè^($Vnp¸ZûlAQ¿•<5Ù÷-ÅT×òÌÞÞÁw+üÙŒ’Ó$ÿ Û,'næ™Û&™/ºÇÇ/ªhqñÀ½}J±Tåù~Hær1Å
-ÿ 9PrÉòÆ«ÌÂ¼ÿ Ýâ9^4òß^FtäÒ7^W­i©‰}ä¦·ÇÊöQeuúk±ËLU&ò:Ej¶—{7RÅm)c?)JH,”þz}FÄùr%¹Wa2flí¿E[©R€†fpùr-CçM†Çù²`%@tÒImíïƒ˜nåXÁ«¬2ÈŠÿ Ê
-ÿ Mmrh2ÜNË‰µ`?¹<±
-$²33'—&£ðÕ—¸œë…Fùo‡îW¢: O7_‡®”Ó¾§‘Ž­ù˜¿~‚u`ZÚá!†f¸‘Y‰fcZš–¯Õ¬ö-×1Õ•S2ÓÍ(	ýÀÀUŒI*ÄtÙ©O–œÈXö®³®†\½Ò5G»öÜEÇ¾Ó4«š)j£z9SƒÅ55 {m¶êN¿ŒOÔÖš8~ñÆM5Ä7Sãc24w³Æ±¹úÒ!Ìò]Õø”oÖÁÆº¥Ñ°?}.uü¡¶˜ü´—=ñžêî1ÄÏpÏ+tâç‘§Ž¸ü¡k63UmXbh¦FU¸ÉY\*=¼1¸æã`KxTuÖaKz^m£ÉafðˆÖ‘"·íÕ
-‘åNšjÖêr3™•¬¬SÄ‡Æ†âi"VC,£É¨¤ütv5­ódÃ¡•[´–;n¶–öåÝ¢„UmÉiS*T×}Q{Jí×[hbbË¼å½ãÍˆ¼›ó’hm¥–™±BwÓ+äÝXÀÌhñ·Ì;sÓÞÈ<ŸzÄ³»VBEj91õO=g°»œœÊvPp¸Ä.tTxŠwicäj9®àŸŽPÂ/eÜAJ{ËÈœ‡Ãs_Ž‡I"lŽ2H&÷ªZ9˜ØöÞŸ/†œ¶dUmã®­­0~¥GÃS2ñ®& ÝÈùy™Ô,w3ñ¯;<õ©”lÒjè1Zd'²ºT²æf˜ðT@HM( ;iuÔÖ°,+‹¤ÙXd-.CZÜÂÉ”·V7V…H’6ˆVBÉÔ þZ‡`b¸90ƒð˜tPZÎ±ý§ë™(Š*H ±ü B•3²™À3‰n‹9…šcHG º‚JòéZšpâØFq¤Y¹zE—³auqÈãecpÛãP¯M™£ ïJoM0pîŒ^`€eqðGŽ‹!–Ä˜ÿ õ&Œ %ŒR6Vj~ªñ<HbFŒÝ}@uÇi+íŽ±ÅíÄp„òIoé³feÝHÔâ¡y*”ÛPr9¹þÙ QP8ïÖ¶GØyáÇË0
-$™—uUc³·ß©Ò>†××õ®™†bqwv×wk,[(™ÃƒDI69L{ìtCƒoLE[ÊL`¥¸ý)'¶»ˆÃq•’#BjÀ!†Äj“oë}„k–+Ž“«ÒÝ_²›îº‹pµ¨'‡^ŸËLú+KmÁÌ2c9ÒY* qjaÉ'å.jÄTxøé6ñHÒØõ‹³=ªÁ:¹XTRô«Müx8Øé*34Ö é)Ïç”‹kl‡îf ó úNÀ)ÿ VÚr%ÕVu0ÆšÞYZDˆ›˜–ŠNæŒ¤©ðùj±.>éQÉD"rOå¨ÜƒÇ§ÏSl-‘¥¤qOjñ9_qEG>¾~?å¡1Lp`w6q’X	Ô¨#Â¢„êÃC0¶o;FP$«!Yy
-‡å¶´+fm28C5‰c¯ýÃMá·ùEÿ )r××øïîwd±Ó/ìÎF[i@Ž«¶Çb<Á×¢gÛÈc÷ÎR jø06VÜ8¸~Ú¶¹ýã6ûIZÞ@%‚»µ´­ôÿ  úzi-J96Wèr=4?¤[’ŸzŒÇ÷ži.eËHÈ'0€/˜û6ÖPù¿×üB yÓüÎKfÒb»U‘ŠM7Ï®Å[ïÔ|µ9NVšÈûyu`Øùû?iÙíã‡·;~ÞcX¹dÁVA5\¯‹_ú¿y*lXÇî‹¬¬mæ·Èö+^#ÞOm÷–‚9Í·)È‘í’Ð“ßÃ]*Q|~,üXÿ wõ¤«·‹q¦ÛýkvØ‰ðÞôôþÏ`|¾ö¬œ<ŠÜ}ŸÈš¹G.Ÿñ5ö@ø¬êCþÛöû,B½#÷á!Gé¥p,%lÏdþf^Já—þé8’\†/—š²&9?oÏKu÷-üeOÒ¯žžê¶¢Ø·Fü:~}"Á(Å~ŸÌ7Yû¿u9&âêIä˜üZ		ÿ †³{u¥ù=óûFrSmX?j>4c¢ŽÕ®U¹º÷¸Ò±áé¨%†³rö•øsöÿ ¨rqÝYÚ]Û<w*dI:Ÿá®P8š•ˆ:EêîÅEðÁ²HA÷ŸNç•NÛï¢ŒÌ¶tˆÈ©¶$bOFõÉ?=V`“Ï…²|…¶Q+Ç#—¥ª¦›}5k£ã‹~îÆFâeå"W`±·*á­'a™ZäÄ"NðÅÊ(D¨ÄÐ³%(ÿ ï¡<¤½b®ì¸ÁÜÛ=ü3Öâ5Ô+úÔ
-j6"ºº¸ÖŽ¢>®Jƒ‚t™wÏcd´PÌá’…(ŒMGÏF¼k²#„B¼î.²W7+|ßyŠæâX¢TmŠ±(Aåãç­†ÛÔ–=â‘)8^Â}"Ê+Kd­Ú[È-Äs2²€ÑÈ8ºmF>çWeªNÜë¤M¡IÖ4[KY,š.­„²F
-”.÷­6Øè‡"Å]½"vs¸‘-,Ò[ûlíj¶êQxÇÌÔ…âµñÑ}M–€}:BñªœÄÓgñ‰/ŽÙÞ[E1rX¤sRËÉNäëJ¯ (‡N3^s0kÝV©’|™¹šºHÒ}ð‰y	yW˜ôÓ‘óã¨> >ñŒÍÄÔWgöÏc;šæ{ë«x/^$ÈTß‘Tž?©¹Mê|)OiW¼Œkþ	ÇN±ì=Õ¾~ÞÂÂi-í~ÛÛ½n¹ÄvààòIUðÖjéº°J‘“ž¶\°Ö<ýïn³EÎÑJPÍjÅÆOÛoÆ¦šRU~Ò€Å³&Aî%Ð÷-[îmoMÄUXä)ë<yê5uW}-•ÈìŽ0zAN×(Y•Ú8 ¥5à‹^º'[ÝpFŸ„Šk0‹žêÃ`Gº[È!õyuÖaÁ³ìüá‹ÔÝã‚³OzèIµjYGòßLÿ ³ì—ç"Î÷Õ§¾émsíÚÉÅA/'!ê.)·ÃKN+žÓXdQ©Ö.NóÆþÄøßü|ù‰80?Pb>;âY»2üé»vc»,P4(<6â-n6Ì%’b\³3)P~“OŽ„Ù Q¿ÇŠ¹èR§ÃË~º,µMfzÚÂÝ–„úMv¥?ÃJkvÁößl¯	®Z%<š’+Ew;u:j]böŽIbcõ¯—õùi¢è£\™ÃñC@zŠÆ¯ÏÇ/Ë©íÝäh6¤lj»#¶ƒ+ÀËÁÆ%ÑvÜA©M«@<¯É&ÙŠÏáÆþà„'oy*6¦àû´—°ælEÈŒ;c·cT7’EÊG¯²Æ£Ðv$‰ÛL[hÞÜ¶K·º~@I?äì4^H¢ºbûBnŠ0$mÖ£úêÅvÈ^áã…j7Q¹¯á©ä$‚áã»UXíðä6ÔòKÙ8XB¯§ém^º$³ßx¸©dî îO@5<¦hª¾³2¸i½¶¹X_Úèd*xÔì7¥5FØÏ“8å GâÛ×âM—¼›'ÑíxŠäQ·¦ÃÇ@LÁºŒ>—Sñèt9‚eY|LÓX\AÉ©Z*À€)ªèe«OŸöí¥ÝÕÐ¶¨â'Ýf¡ _‡òÕÙŽÑ'Ò $	oAbQé O?çªF_ÁÌƒÈÜµ`Á0…ƒ‹+'É‚øjåOBÅ…Û
-jó+3Ý’
-@(j>>™–	ö6× 4Ç%*ª]CšáQ¨Fan"J[²·õxÇÌh¤BFâ†¿î!sçç¨$‘gng(Ûú¼õ$­A^§Ï¨Ûm¿Ž¡’I$hpzmP@óÔÌ˜–K:°§Ÿ
-¼6Õ()±³žäO4ò"qFeE&¦€Q0²D'ìãš/kˆh*(8ŸÃ@eg;N'Ë1ûÕöb”
-jÔµhjzÐøj‡HýútŒ&áîz|…x×ùèÌT"/¸§èýu^Ÿ†‚\wa÷žÑ¯ÑËóV´øÇD L¦ìýNB´ãÅýÎ]kËn4Ûçá¡~“NÔ÷=«OU+å«1r”áÉyÖ¾5óü5Rãhýÿ _oÇãOÇE¬%C-øòð§^4Ô’ô÷G·ËŸõ—ÇPK—Ûñ«{•¥}é¯á¢”e—xziÎŸ§×Ëã¢”"™y}Èóÿ Éþ?¦¤d*o·ä´ú6¯ø¨"Qiè­xí^º’H¿»OEzž_Ç}HRÉyí^<hiÃ¥6®„ÊÞºŽ<kO´üuF\¾/“Ö•¯¦•¥~Ð˜0C÷p)þ½úV¿\)ÿÙÔAB>C_9http://www.farhills.org/links/images/LRGhorizontal_ad.jpgO
-bplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_9http://www.farhills.org/links/images/LRGhorizontal_ad.jpgÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“²äÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=99UbytesZWebServerXZimage/jpeg_Fri, 14 Mar 2008 17:00:57 GMTU11530_"36f9637-2d0a-4785234f"_Wed, 09 Jan 2008 19:41:03 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionary-
-Ò./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-HMVadjs|~…˜š¤¦¨ª¬®°²´¶ÀÂÄÆÈÊÌÎÐÒÝëòÿ#1FLWb‚ˆ¢ÂÇËáîñöú             g              O-
-ÿØÿà JFIF   d d  ÿì Ducky     <  ÿî Adobe dÀ   ÿÛ „ 		
-
-
-
-ÿÀ  d" ÿÄ ­                           	   !1AQa"q2BR#‘¡±ÁbÑr3ð‚¢$4áñÂCSDT%5      !1AQaq"2ð‘¡±áÁÑB#R3ñbr‚¢²ÿÚ   ? %¤q9˜®xàs;)5¹@äšc|¤9h‚àÚÆ9©Á¤g6¿”(b§dƒW~vñ¤1æpxé,åh_ƒvš;€ÊÜUÅë"wvÍ“íït$°¤R•>db.á@êVQ­ÚÏh°Ô59b%cn…-³tŒw=½²é¥ÀxÇ%IÌcõµËµ·”?¹ˆÍñuÃl´ŒªhA<ùåÏ–èç|§¾þÜÒª”tÆG‘œÑó¥ƒM)Zày¤oŒœ5—AƒuV(ÈÎ§,ÎŸ‰¯E£;<ïA)¢ÓQ†ÕËTÇ–šÿ mˆÌ…ÉVžRy€ÎXÖ„2o;z®£lIPñø`•,üõ©¥î‹Uª-Ÿ¬Š­E?®»IÕ‰·{U¢Dw@DíÊT#/ž	vU}X¾k >nê¼½bÐ‘št4'Ç]…)¿Ìîr[mgîûMºÌ__],º´õX7©¿* ±øckéW»Jª[ûjS†îáÞÌû‘±î®Ão¾p‚­©ŽJa[ˆøa».ï°ºÉY£ñZ¯·´±U5¨Ë¿ï,pH¹)F91_Öû›÷/­òðÑøø¶34–…ëMîÙ¬cã‹ª	Ó¯I ñ®x«±úæ\²ÁŽ•å.-f£ÇmÅåÃ6–SŸ}’iL3Nc|ÕUZ€ÓùcU¯uÞJË‘ò]ÃbkYT	¾LÑÆÎ“VLˆI+Zxáú5±|Zµø‰½Ó3ÝÓxÝ4•‘Š¦uºOð§1ô_y•€¹]õ”IähIÅõ„´B™×gÒe,”âöÁ,ìjêd§t <ØR‡íâg²ØK¡tÌ$aAá…ó×`lmö›Éœ$kª•!‡
-$“€¾j­ÀT³-M¶:Z cÌ‘ã^XUrõ4êÏ“n
-ËDu¯âåŒyMAãÛ„P8Ë\Øú´ùb¼ûB?ÝnÑŠþ(wûfSs	X7 ¿Ž<„Rÿ Ì§ÐÞTðÇ ú~×ömÿ oñ_Å>Ó$ü,T±°PŠ´ ‚N¢EßÛ“Ë¸†n>áC4Ìˆ§U}"¸çú©wKÀ­uÝû@Ÿ.x*â1÷À¤ýÚÍA!Ïžé‚²Ù”.w÷š>GžÓWf ¾»iÉ«Ö¸§ Õ«;²¤VlÆ ÔáÎâ¸Õu;r;k%Tx“*v\•F‰¶}À…¢Xú¹Vx‹Òi‡êÕ„º"³žÖî7WžRw5¯ÐÀéøa9ðú´µÍ4k#PÑ±\ÉlÈ“ÆDÑL¢HÜÔ‚Œ-ò8ùª£MÕèÖ‡î
-·7Ð[2ªÛ¯TŠý5ÓË¦7nº
-Éxé©Â]<Ä»TZ¦B£ŽŠZ TÛW¡Z[»‹¹Äb2K*9
-óÏË­UTŠ½˜J6
-¨úiÆ‚§Ç	¶VÙºá9—ZÐU+ãÇV~ YºÉ¨:h¦˜%—]ÌtÐãöù$„f<Ú€ ~xß¯í5ûvö@=öîÒÇU¸QqpGêjzF¾F”¯Ëöøï}_Â¿^:SÍŠS]\JážFd9AE jÇI*ÔK¸§ßÓÝïÃnJ´;dk Rj¤˜üu?,z§bá‰7½µþGo·¤Q6å¾‹p¶M½Û÷‘RÙ£È‰éP´ó8³&:ä«­”ÕŽgì-“h´º¶†+â.=œh•9hÔræjœEØý?UÊÉ:/•Ê¶û÷÷‰ytF-ßÛ…ÅÆÃt–“IŠQGŠ–Ï1QËÃcéhû¯‰'2s»XGØwmÞÔƒË$çŠÈKC(ð‘NUðn8öy{,vQõºd¬µîû¹xn#vY‘deÖÜs>xŽéGnr¯ðÚ›¾ê’;¾‘Às 4ƒZ‘^ ñÇ;/g[¿3JÐw7rÙjv‹Ó$B S•8“ÿ Ÿeò³nÈšÚãn¼¦›„"ºP+ÏŽøòS ¾)–.¶‰ÈÓm–™^>0šæ›CVÆúšÈX8šøj¯Ðˆt–§0ÏSž”e£™7—‘Â#ITÊ5¡œ0K-u`ó^Â4›Y×_-^¥>8& É$Hî
-‚½P×@øpÀ»W©¢[r®ÝYÎƒõ#‚2øòáº«Z ³ûd·¶7‚0ažè¡â¾šçÈç¦_O%mÕ4QÅ”`…¢aB8Ž×íž‰#Î¤ÿ “Ï, p.vÅ›^]uôòóÆwÅ«·m–K{&‘Š©‰kmJm)7›™v"6"¾*:’»ØŸníÞàÜ›L0¶žlrËd¥M§wÔ9·}¶Ý%˜u˜i¯æÂoÜÆÁW{±ÊÓíÝµ¼c¨T 3âN%yÛ±$ÞûNÎ;wu’´†#f[†½;[“FpÀåË]&¥Çk» „*iÄœCj´Ê–4n?h;Â×¶Ûkgûf!4q&ÚJ˜›ÇÒÕOáþAØ¼yVD¾Ÿû/æŽwsU[hÆá!o%Éô¨§‰8ãLùE›©4[ ‰5 ’¹Tò¦›z±·Òº"m¿m“N©µ
-©¥x
-`2äo`qâñ.¹Ùˆ©Qà9ÿ ^#^2DÚ _S–yšãZ®²íÑÙ–Æ5
-ŠŒ«Œæú!ª¨Ü´ñÛ2ÄÚdl¢UË?8ÓvéÙë°ŒÖÒ³¶MrÌÂ0îê?™óÇOÖK©Íºoc«û{.ÞÛ%Þ·
-Ú a³êÜ0ý(éÌjõ qWeKgÈª¾^¾ÏÔgoÛ»YIŒÉ¹Iqq$„ŸÕbò9ú˜Õ™¾$ãÙ¤vš¾Øm/>âwÙ–»a¤.x5Ó@:Ô~Xãýk»xñð«ø¯ø.¬V[¤q{–]»lš(ç)q)é@O¨ˆÄ½£¾>Öê®ÛíæM–ðÐ¾£’ø/!©iåž9_OÉÇ¸£‰Ã-'·š”É‡åž>…'CrýÍê\[[ÁpŠ9‡& ~MŽ'x£#ðdÅ~ Dš ¸÷L¢‘ÏJ¨§:á8Ðž «%¥å±'êI@âðåƒ®DÁhùaAR†ãQ]8ß$Àe›{½ÞÊU’;‰¯ÐèÄ¯Ë
-¾:YDÉŒ}ç,«ÓÜ\FhØ
-¯qNÆ5«ƒ~¤îZ—ö‰tÅ2Äÿ •Á_àFXU}Z­T‹µØö=¾ìÑ'QA¡(Á‡Ç*ãO%zè{i…Iz 5-üq©]™Z²ÓµÄ¾ˆ_U¼c:€ÌO‰­N’Z½Æê_ÚõõKHª0Htr§Pò¦•mGa¬Ûc(»ÛoZsÒ‘‚P§Ï@­´=¤Ñ×í[þòAqe¾Ï¶†Ù––ê|+ýqFì4áwªE @ä)ý1¬u7v)nÝ©}1i#Ö•8­]¼l³´ÛËg¶Q¥¿ù­@>Yà%=FV­ íœÖÑ¸ Ôxçz†—˜W¤.¬cP¦máªÀ²ñ+×{¨þ>¢r«xaY51nù²ö[”h3å‹1$Ðœ™šbÚ^\@Æ˜'õlú‡;;¹wŽÙßàÞ¶óªhª³BõÑ4-õÄôäÃøX“½íq÷ž;ìÿ â…µ'êm›yÚû“h·Ýöû’öS<MMpËJ´2Á—ùŒÆ>eÜö™;\Ž—Zô}ñD™q·×A«ix¥€zˆ+>'Ì­§¡Nš/HÖÎ¡Gá\ÎìÇ$E-é#LjOù|1¥EÔß#‰ŒÝ>¦ÏMI·0VŽ"¦4òsÁÌTP}®9æ3Üº–®H3¥8±^;?–¨]ªž¬’kKki.$uŠ†©&l•G€Ï‡<QŠ¶µ¸Õr·‡‡´†v1oºÂ7ˆã·Œµ¶rmâ<jr.ßäßËÇé}§¢µÖÏwöètqöêª>ÔíÇ}ÜE¸éÃ×wvÃÑU¡fñ'ð¯3‹{®î¸hío»Ä<­Qjj÷÷ö›.Ýo·íñi†Øh³ˆýlçŒ¯N,Ç3%E~âîöz¿ÃÉk]Þâþñ¸]”ŒHú¥b^IUçŽ­_*¤kº«C
-Ü%ÎÇ,ŸP’üéž8ÎŽ¹Rðbñ³·¾¹µº–'Û¹*þYäß,}ºÕ3£VÚoÞêIöÉ†«…{òé]>)ŸËÿ ¨Ò¿†ŸêOÝVTø’XZ1mt:°±ªsZåŽz±l[²‘ì¥tžëk“!_Ãá§Ì`rW–ß1½=Á[‚ÜØ°žÑ†¥jUòøbzæ{=ÍÚ¨4ý¿¨¨?Õó¦¯ÄEñ¾…6QPzµ4á\6²óÀ’Ç„®\OŒ!8pjÇ–óÞÚºÉ…Es
-H§Ìc/JÙC@¦Ðv-Æ;È‰¹ˆ™ÐT¸âWÏÏ[£Ñè9Zw<µÈGNvWÏÒÀê¥y–5’VèÊ†Ë{}–Yú’ÎQššú‡ª•ð\/³ÅêwO†º¿áø§båyð¦DIjW,zÄÎûG~âÂŸû0\q)ígDtŠ"T~&4þ˜Õj‰m‘“ùáUÕUGJÿ \5Ñ% ¥‘Ézó~V¶QŸ© ¢¨þf˜BRÆ»@µ<7Aõ!$¨ñÃ’ìÉ6ø$ëkz¹æ<0Î ;[<Ò
-EÃVnHà¼Î•Â‘•Ôã¸{îÎÑ¥²7F1F“Ï
-ÆÝŒ„Œ;¼oÅýûH§ÒÇLT—&¬£¶ìóNAHñ¦_ÄãWÈej0Ûlvê?ZEÁ=Gùe‰˜ÕT8v%æç°n¾ëkR j-äSU¢™É]Àñ±y†™iÆë’ûj¼úJÆý´÷Ë»¬b9–Îá€-i1§sDaáÀùcÃ÷ŸCÏ\Ü¯þ_w_p«a€ù³™V)LÚž>àd¥ñ¿‰:¿5¢!jŠCfBðxrj •aw!oËAÕk¡’C&Û<®FPÅÀj4$ø’qÙí>—ÜdÚòüÅ=ÎšÎÖ¨ÒY9ªd+æÇþô?Çr5ñÛ|+«ûÿ â¤Š}×´^n
-ä=8êcrEó§3æsÇkeNÞ¼h¡}·,ÂªŒ§qìÛëÝÐZBºIõI#ý£‹±ðÝÍqUÚÅwµiYc}•–ß²mbÆÍtÂž¹¥aë•éœýyy\Ùïžü­î^n§>g‘‹2½ÅæéZ†@'Ò ×—<tié¡˜i¨7p—Ü^Ïä}Ëb\j™®íHo¶o‹ÙÍc'áRÑ×ÀñŸ»Åª²"ÄõOvÙ"JTqbqí°¯{•v›Yâ’+˜›Ë&BÔâªkCãOéËZ®¯f	P7¥µ¦áb»’‘šOýVòŸ©ËòžcO"¾+ð¿¹ÿ ©}· ÉÛñgÐÏ	uoÖ·|˜~SåƒõSj´[“Ýí‰¶íúmZÐäGÕ»f¡ã†ÏuRc^•è¨4ÕÎ£Ç<M'àQº±“¬"¹Ž¬~™€¦GÇV…¡–ª±å­Ô5†šásT~aÈŽXÕïW¯RwV‰+Fô€¥`YàOFÈàp!ZœiÂƒã„Ý§ i¬öÔ–ëDq3Q… ¯ÇeË–Ã­unV¦FHÕ-ÁRy?YþØíý+¶ôñr5õ÷t=?g…<Ø¿¹mhµaÅs¦.³.« ÒOÈ>ºpÀK¦6§ 9à0ul‘¤Þ¬ºkVÕAÅ‡€Å
-Y=’$Øöù‰%RkJWÃkF$4¡%ò&”§–Fˆö«(ÅÉUG,[Á”¨Û}¶A·íÎUeqY]>CÈb>\˜Ê=L¹î¶Å.¢c'6?¹Å¸q±y,f×[¤kpD1*€rfõ7óÇESBGmKÛuô“^BÞ\±.ZÀÚ±ÃgÜ²EÕÛŸ <q;Ðr4}«kŒ[¤hƒ.'Äó'
-juc¶A,QÒ ¥FC Ì’‚mûíÀmºúkz~$‘ÐeàªF‘¨€•Ý»mïuKj½mÆZSÔí¤“ó¥q'íªõU¯·XÓØÝ=õy¶kï%b?ê»;û¼Ž7Zº¹ASmÐU³ûÃr×z$ Ds§Ž©v¥°ž:#Níþâ‡p·IUV â¼7kF*õ€µë@Ð—f ¤à»¬´¥¬ôBæ§3P*±©<ÉaÝ÷=åíÑæÊì.nº¥­‹e4Öx3žÑJ½A¶AîA¢F„–<kçŠrJ®£ñn-Éû‡—ñ©?<tke/>¨+e®;˜î”z_2
-ða¶«‰Ï[È¸îÚÛs’ÝA`@t#š°¨8õ=ŽEl)l: Íã£+ÓKV¸{c•K;Fíu·_-åƒ…22DÃTn§Š:óÓˆÏþó·¦Zñ²ý=ƒ–5uxK[-ÖËßm¡–T®­«Äþ?ä‡“ñæòâÉ…Åµ¯Güü3öÎ]5Är<l§KÔç˜Ô?â0Ú5ˆ2adv²ÉÂxßLˆA¨­Aå‡Z†J›«`»±¿‚>³²­*µšœ+ˆ¦Õq½º=·!¸Û$‰õÚ6³_R©®Ç¯¦»E<V·,á‰‰ÔV”øÐ[®ûj'±Ü²Ã*hb’€¡‡"F|‰­v2¸Ü†™ Ù¬ÚI‚Á~ãÓLô>¦ðjpÃ»>Éå²½ÿ Û[yþ‡[²ìßÌÖ‚éî«xÜ pÕËPÌcÑIÚI3ÛÒ)c,3®Ô4ë/ä?õ1®9Xì2Èu¸ Íy8Úº$tÊ—›%öäìöVsÝ[ÛäL1<Š2ÅAÅ)8Ñ ø§«&µ·šÌF×˜5¨eê‚¤¡à@"¤Ktäb²è‰ìît F–F DZ‚Ää 3‚¥˜»RI,v;˜f–Hã’ÞáAnFÖ‰Í˜¨ay­¡¤ë_0sí½Ã$]n©–È)C=5á\
-ñÕ‡l‰è´2Žå·è«•9š×lW’;ÑˆSG#9cñ9bÊ²v ¿³-Ó¼¦Ö	n}ºg1£0H×êwÒ•Ìœ°¼´”-÷nÞÜÛÙ%ëDëm+[–R",¹”W¥	ÀÇ3-\ùcÔn³ï­Â¸’¿—È`lcIn±û…—!	'á˜]êÐ*ÉŒ6}É¶õ5Ë2³œÂ“Àbf3u nó½6Ëm¯TS«Ü>Q ?ø¾Xe[b==u2NðÜzþ£&¦$“žZ¡¼¡B3ÛÛ¦†zÆt“ž)¥%	v;¿÷h.`°‚6¸žWÃ
-U™Øð ayhª›{ ëeÔßÕ/d¶ŠÈ3‘ªUSUÕO¤`cÁ}Oê=¡·]¼üÉ²9zw››{èÕºaš/ó‰{|V¾»"{BîÄÒrð¦KÈ,t¨•vÊH …¢°¼œ*4†óÁÚÓz¡Ôzl#÷C¤Â’g¡?#Šr>:ôÚ¨-ØB±³A5V64ÿ •¹œ©D+x+wNÌÒ[-Å+=¯¡ÈÏTL}'äß×O¤÷1n-·´éöv×‹wºr…¨ráŽüº•ö›[£&‰Tª“‘8VJ…A®È=«¬ÑLÑMÑ"1VÈŒKjzî^ñµt0îÖIr?ü˜†o‰È£Ç/7ÒjÜã|-÷×î$ÉÙUí¡$rö½ìµ°¼Ž9ž€ÛÝ“nçàõh‰ÿ ½ˆoÛw×Ä¥x×_Ãs››°²Ö$%Å»[Ì¬¶¯P@¥xÔ(~X—÷UˆoSŸlM-û~þbf¶…Ð¶n´`kÿ ¿^å=¾[˜ñ¶NÝ¿·©/}wÚ0úßÌiJœ:˜³ßä«÷è:¦OÞìvòÐí°âÌ™Èå!?®:¸>“Uñd|íáÓõ÷l•k«Õ‰}Ý¸\M„R35ÏES£T"mÛ~éÖêkm5®šòÆ¯‘l¦?íÑ¤±¨a¥¨*Gb°0Ñsöÿ 5ã\nL‘Û{šÎ8ª•Œuœ âLj	SI~ã÷VñÛµ¶Õ³]I¶íV¶ñ=ŠA¥`ÊHÆ‡©VÈã¯–ö«Šè‰qQYKÕ‚NéqÝ]Á¸ÇÞ[Ûî0l2ÞíÎKj%¨gÉõ‰O†XÎ>£|×C9*/…õ,÷M¶·uÙu-waºµ•ÅÏY˜JbN t\‚q<0›bJ‰­-#VVìÓÚ@÷…œtûßn»²ke´½ÚÊ²¬QÛFÒÅJßP£r¦Çû·mt&‚±â(KÝ[çÛ-·ykIÖÄïOmw·›†¤¡aiš}P…¯—ž&ôãÓú¶’„¢íOBÆóØßomõ¼Ül’\öä[e•æÒþîUi§»,žmÀñÓ§ÏºV²ãá„-^Ö…:È¡qöçí¦ÅÇµo»%æï¹o¶ö÷w{¤Mµ[¶¤im‚²üZ¸ÿ BYUa> znÒ×A‹dížÇíïû•¶ØöÜß·YöüÊÄßJLð*ÆóÄ*¡”ºÑªtéóÃ–jòuðÑp­âÌòYvûUØ÷²ØÝ5ŒÃ=¦ãµµä9h=O_¤Ì¬TróÆø+ í•Õ¸wNÌûW?vwobíû=õ•þÍeq}i¿=ëËú¶ð¤¦nÙt½t©$Ÿ,iâ¦Éçg«)m›gböÞÃÛI»íw{¶ãÜ¶Qî2Þ[Ü˜Ö	ÛLk
-€ÂY‹jþø-iXVS%8©kK€}6­¿·;¦çoØà’ÒÎÆ8‘ÙæiZY…Î¬×'O–Ø¨²qHÚÉgIfq¶ïwÓÈÈÄòÆòáUZKÈJöî}!]³žZkóÉ+Êr&¼2®+ªIv?Gýûcþ½·®óºGÿ ïoÓö°0ú<¤oÇà=>8ùÿ ùÖ–kzXßöÖïýOù~fæGÍÊñm -VÉ[ÏËß7®ÂïhB¸°id,õyêw9’kŽÒ·DE{_mÎ!%ÊÆ9j9ÓáóS PPÝ-ÖQ«+ÔŸãŒÅ®Y}Š€ílÂzÕŽ¡˜Å–¼èjB]5à~/L¿óøãT|t$²ÖB0@“Û´rŒ´qª‘ùcWK+.ŽJq6µoíÖ'’	H×aæ1î±ä­ê¬¶híQÊ%Ì±DàŽÀXbEÝþÆÀø„Ú¡÷;üÒ1éåæqŠ†IæÛu#Þ#Jäçp9+¡´iûGpÝZÛY¤‰@È#²äq#ÆžêMZ‰€wï¸[±œÃò¸êgb?8§ál’èuµoÓî4YäÑp>—Ç*$!§]V¨d°KâÚ%“ÁøƒX~;&´/^ì¢Kbò¯,Ž{@êî{x @–"Õ²Ž„¼%»hpê 'ÿ d‹órñÁÃ5ÄqqÜmpýjÇ'bIÁW×ašÓî_ÝšÒÏgƒjýÝº]m©.lšêtŠ™<£Èæ1~+ÛDK‘Ws1?r¾à[wÜÖ×ýÂÃp.£ŒŒ:o%=:r§ÇV‡,_Ðs±û™Ý›…¾Ûw·lé¶Û]%í¦Ýo·ÄC"0j*ƒM,~ºÔšœðŒ½ÇF<v½ûƒÝÃ¸Ÿ¸’ÞÆMæöÛö×mC¤é#KÆdvÉ~aUî,í=C¶:ñ„mÿ ½£íÕíMßg‡n±šg¼Š7±öÓuBí"3S…tT§ÓÃÉwÐ¼uS2[¿îŽâ›¶¬»nfµX9–ÓG¯ª›ñÖtŒ-Ùºñè6µS(dí÷îöû{FKiRÃ+««t–{qZé†FáåáÓ%–ž²Ò»ø…¥î­á÷›­ÜCh×w¶þÒí^h¤ˆHt'ÔNycNöVå¤±I(Ž€-Óxº‡a³ÚÖËn–Ûm¹¶±Ii:¶½GÆ¼ˆËýÅ’€ë‰YŠ}Êïï÷[Ýæº}ãu…,fÅ\:EƒRòkÒùú€–\íêÁT Ð».øl}¹·Yo÷²mV²Ë<v{žÔ.*Ò?¶I¥LCÉêðÆíxZ¸÷~Bš–ã_ægŸw..{§¹.7D³žÞßt*ÛtR!4aDhëùµiü8ž÷|ùFã©á‰ØJ´í[–ê[[øÞùªQÒ [1‘®-ßP(¥è³ÑkvÌñ®­mQëíoÛ»9/Æés
-É£~€aPóÇIÇãLyïò©¼Xý:¿Šß‚ýIï¦†Áq2,LÅ´¢ýgÇ`òÐ$2]HÒ9Â™™€ëãŠ¨Z²{9Ô†[ôŽ±Ù/ÆfQøbÌ8%Í‰­ 5üSH¾¦,ìr'>8¢R`T¸íš+k;júT:a]«—k6·´}¨rÃ­mM–lºqLc”R)²cÂžZZ•º†b´01W9ý&œÁÄï'!ÉAžýÀ°¹·Ý–T4K˜Á¯ùÇèoå¤ãÖ}¸ç‡ú_ç©Óí-5q‹p'‰+ãŽ»+4°ÌI¨øã.Åm%ÆA‰‡{og–ò^¶“¥O£ÌáY-#uÎÛ,VçY!@ÌaUFH»ìâbÒ9óÃf‰¶ÙŒ²•¼IÁòÅ#GÚ¬ÖÞ0²ú«Á,-‰¶>¨ƒ¸föÐQ©
-b{Èì7OG¸õ¸•ˆm ðÖ:ÁM˜.ã`šI‘ë\=$Å¶Eþ«uùÛÇÄl~½kµ*4_Ï ž¤.¦ƒ¹_mÒw‡ÛÃajlæ{[WI#•É²QnkÅG‰ãÏ»|U‚E]- >àìnÇÝöÞã¸³ÚM–çµÜuÍïY¤k“,ì¯ÕSé\êF‘–é4úAº]¦¼Ã1}¿ìÍ¨[l×ö:d‰Öã%÷Fñ^EÕ®()§JòŽ1Ò«M=³©œìõ0>ê°¾Ûïî$‚è³ZJÝ˜‰\ãc¢D#1ÃP#V)z£rš-¿wûÈûvùîÏ³Àöú¥qÐe·ê» •zgüq}’µáø©UÐ¥}hn}±ûÎß¶6Ûï¡¶ž»H³Äë«ÖÇ5b9Œ*üxÌD0êìœÉÛ”7ãÛm&q •.ÄîZ70õF•5Êƒž•9qH[µ¢d·l;m¿oÙnÁe{q~Ò·×f‰m¢‘iSž$žWÅ7ø¸:ÁÂm—mþÆ.-Îçk¶EÝ¼ÑNué˜ÐÔ¾œ˜P·a\1®S¯@Ó»ˆÒLÜÙEãÞ[Æm‰Ë’uGêªÑøÕ|q%nSg¤þô¾ëÞgk÷†ÚÂ	æT'J.˜.ôÒµ¡cŽ†dÝ½ÄØRU–ÛdNøûy:Ù7JónW¶¶’âYVÞBX£F\œ—I¢ðÃUW*±v»i¡wlØ6-ÙwþôÜ-ì®eŸy—o²°Ý·)-m£ºÝÞz4’»~ðÂ«DæÏÇÄ7gXªð+wkí|°´Ø%‰ãÜ¡Y$¶‚à]Åm)$:,Â…Ð¨1'{’˜hîþT¤*ÞÑ©¥lûT;~ß•¸"WH<Øñ$ù±ÌãåßqlÙí»Ï79 W¬5~H#™òÆûlm½>ñW²@yg¹˜þ°¤_†5à:ôÅZí¹-ï'ÑÆ¹ÒŠ£‰çž(®ˆQ\@g»E
-H¨Ÿ!ç…ÞÐ›7U,©»ßÛË¹=¤ãLudü¦˜Þ-S’Ü£–°q·BPÀæ­ÄâÛ’cÃj²çÇ,m^€•¥e¶ÐùËÈþeðÄù4sÑ†€ùf²ìbê•6²'ü_ÐøqÖúqÃ?–_–¥}¥¢Ñâ Ç¶‹ÕMðÇ°v:EÈ»"ÔÐ±ÔOqµ,FKï{	Â¨Ê¼|°m wgÙ¡³EVš|±;rS'ÛÄáLJôŠœðUf ~Û´G–ä8’3Ãw
-Fk;ëK4¨£qi©.Žà´’:ÂàŸÇ1ðÆ¶áÃßnp”>°Á²ÑÇèë [•ˆ!’¯2£–ÄÕs5£"±Ý 2ha¥ŽT8Äàr²aŸqoãË`°×WŽYœôë’Ž8ÅB+d4žÛïíFßÇ·êíq,[y0!tSB‚ÜNX/ÝD%¬	ôfX}{³rT½_üº¦àK]þ’zªº~\+ñÏnêÐüÍ,H©~ÍkvÞê¤)Ñ‚åãF¸8iIHÔ'§{m†¾Þug‚Æyâ¹·Dy¡q*ëQ"C¨jV¨aQ˜8'xÔ:ÕìËßÝÓð7Fko|"6«0µŽ¦2AÓJqÊŸ°úwvnM[·¬AŸuîÛnß6ÚÍkÑ¹œÝIn`ˆž«¿SÃ‚žË†ÝÛˆ[¯n†£º{žór¤ ºXº*â !5áãÊ¾`q÷7µç@2b­TåºYÃ(`•d‘§Xf…$Ž9XÔ´jG£å‡<íl)RYRÇqßÒ+ñ®9›r%¯X‘Ýê)J‘‡,
-µáù†âW­¿%ÎÓWÁMÔL$‘C­TÖ¬§"<EòØ«9¦û­÷í.m¯$´	y[Jém¹…×I]c>éãî,Ô²\˜ªœ#™~é÷Tw63ÒÑn6Ôh¬XZÄ4+ (2òË
-·ufåtNÚ±¨?aî^ãƒqÜ®ëm,;´‚kí¾kxä´iéq*ÃÄ`r×¼%XÐûjÝÊòM÷q~µÛ¨‚*¢$iøcE *Ž <y?òNýÚ1{ßð@eJ¿
-n®}ª˜ã5†ã\y|x¹jö#ÉxöƒBHä¼Ç[~cÇùâüU]	[=hu¨µ'€{pIÙ³³M2~¬Üzjraôåm´FšKr••ÍÅÅê€BD Àä­U|ÍQ¶ÅÍÅD×ò¾šúrøâìzQ êõl× er}IÏá'ûb>ãõT}\èÂ+lb‘¢o©OLí:™{”pñŠ2šæy`,çF<î½o6›ÛU 	íßG›%ƒí3ºe­¼,†ÑÅ“3~ß…`K‚*Ã˜8ú¬vPM·2‰h£‰Ã±ä]DäÆÂ6N³Ð8ÏÜ“ºÃ>ÜãèÄJ®\Ï†ê./¤ÉÕÒXñç‚®9îO<e‘hNu8¡cd/žø±
-Æ˜È˜2Ü¢½VY
-ƒü1še:Ë¶Ü\À%ˆ•˜
-²r?,R·bXAˆ À«~%8Cp«$M¿X–ÌrNÓ©>›ÌÜ<ya¼¯U™îÙÝ _36PñÂ²ã·TuLyÙ;ßhYšA_„VµÓn;õ­ôtµÉÉÎ¸1hÎ» \Ú?]¤.ÏÎ¼0I&Í¶ÑcíÞë»_nYº)“3©ñÀ÷Ò7ŠìuîÝÞßÛÖû_Y›(IâÆžUiËA®þ"WjKºoû£_]9)_O!åŠ^
-ªÀ·’õ6½¯p6Ä®…ÙèM9Ùrªü£=u,bAqr¹@Â¼ØS‹=¬öj¥Ô'o`!·êH  ÿ °Çb·ŠËÆXrÙá¹Í/©Ïä†9·|­%5³J•»vämrÝËší‡W'-Ã+N¬}°Îî %çÏ,5¤·$vñÃg3WRòñ¦ÆXú¨FÏµY{-žÚ0(ëúÍ…XŸ™ÇÎ{¬¾®k[Åœœ·Õ²»BEIbÎÆ¦¸)"dúž‘§æ?ÛcÑFìÓE;«ý ÅhºAÈÈxŸ†
-˜æón†¡hhèÅ˜Ç2Nx®ù4YÚã M.œ´éSÏæ¶Èn%Ô /$ŽWÄŠøâç} G‚ k®«LÁ¸Å`Ý =·L—¶Áó3@(|×üÕáo&;”£££JR¾Sp\“F£¢¡‡ÐÔùMg¨Äd}ÅºEo{,00²8Ô1ôÛ':'â‘Ý®Éí›¼ZGYhO<]J™amÝmÖ@j
-óÁµ—¨bî{	XÛê:“²µ‡h5¯ê;j'1^Xv=Žì‹r(†8õ5>8¢Ñª(ÜÛ]™XÎ¹Ç²ºØóö™Y5”!¸Ò˜[aò$´º¼·•cÚkž©Ë¶=ô–Šì2>8]ÚbégPCööéš8LÀËE–„ßë·_xWž7ê‰àÌB×OLR”óðÇBÛ’ ­²Ö:•åL"ò6°i›gþ=®šSÑ\KÔ¡Dh(wSÝÝu{:çÓÃ«å¸»y‡û_ö½P~Ù^F½?M?Ïçç:î6œ`û¾ýçºýƒÿ åê}¿
-~<±¬3ý?1¿hÝöûý¡ÿ •ëj¦]N*`{Z~/—È
-q75=—ö½#¥J~|žN3®æfåÔ`()N¥*_ûŠ§ÿ G—…|ñ™yGt€mÇ_Q¥<ëZb7!¨Ü{]gUzž\q^Z`îÚ}ƒkúé8á™& ¤òò÷ŸÙê4VE­|5sÀ.\_±–_åfÃw¯©úziçÃM9cæ¸¢58Y&H}ýZeª¿:aµù¾-€é 6÷­¬{ºùxSåŽ®8„E¦u*~•<ëŸËÇ2ÁgMíúGM5r×Â¸ò3B$÷¾Ö]uê:}4ÆŸH*Ìeéõ[M+O]8jçL:³š{‘žž¼¸eü0Ìriíz½òû«Âœë€ÉòüA©³ôº­£è®Z¿¶ ¼Ž§‘ð¯HÖ´Ô?†mÆ£óŽñÔÿ nÝz•Ñï'ÓáN«SEìãÑ§ý+ò;X§‚ödé{_Óú¹âê„Á£÷Zo^<«\Ž¢®i—îúIîøåÇB+î=]èöÇáËŽÐiÖ’šµjÎ¸Õç¨Ì{Aûv¿]:ÔÊ¼q‹`Þå§èÐ}:¼ü<ð·¸}
->Ã«é¦¿ÅN,c1y„ößm—KGž&s&8êXÜth<)Œ¼F ¯ £ÏŽ7SÿÙÔEF!G_,http://www.farhills.org/images/clickhere.gifOùbplist00Ô	
-X$versionT$topY$archiverX$objects † Ñ_WebResourceResponse€_NSKeyedArchiver¯&,-345MNOPQRSTUVWXYZ[\M]^bcU$nullÝ !"#$%V$classR$3R$8S$10S$11R$5R$6R$4R$7R$2R$9R$0R$1€€€ €€€€€ Ó'()$+WNS.base[NS.relative€€ €_,http://www.farhills.org/images/clickhere.gifÒ./01X$classesZ$classname¢12UNSURLXNSObject#A«Í“«D=ÈÓ6789CWNS.keysZNS.objects€©:;<=>?@AB€	€
-€€€€€€€©DEFGHIJKL€€€€€€€€€ZKeep-Alive]Accept-RangesVServer\Content-TypeTDate^Content-LengthTEtagZConnection]Last-Modified_timeout=15, max=98UbytesZWebServerXYimage/gif_Fri, 14 Mar 2008 17:00:57 GMTS267_"36f9610-10b-46bbe455"_Fri, 10 Aug 2007 04:06:45 GMTÒ./_`£`a2_NSMutableDictionary\NSDictionaryÒ./de£ef2_NSHTTPURLResponse]NSURLResponse     ) 2 7 : P R d … ‹ ¦ ­ ° ³ · » ¾ Á Ä Ç Ê Í Ð Ó Õ × Ù Û Ý ß á ã å ç é ë ò ú
-;@ITW]foqx€‹—™›Ÿ¡£¥§©³µ·¹»½¿ÁÃÅÐÞåò÷$9?JTtx‘±¶ºÐÝàåéý             g              OGIF89aF  ¢  ‘‘‘ÙÙÙþ¡ ÚÚÚÿÿÿ   !ù     ,    F   ÐHºÜþ0ÊÐ}&ëÍ»ÿ`8C9À9(aë¾`ª™´ÁÂxþÙ‰ª¥[¨` vŒ¤nÆÈœ!H™ôP—?€—Òš¤š‚8C4ŠÍäMyN›Ç½ž6UòŽÀÅp¾¬ç«ÑlEhi$%Y#^QGU~aWgcl“uˆvj{IpznU„—2ZsAŒ¥ |T’}£y—‰ª#+­¡€dpƒ¦oÁ‚H%]ªÉxXÍ*ÉÊ¬ÎÔ"Ç$=OÓÕÜ×…º t6¼Ýæá>&…ìíîï	 ;    1 < K i  ‘ ¨ Ã É Ó3¯3¶3Ä3Í3ã488"JàJéK!O:OUWÛWäX\6hÛhäimm"oZoco”s“v¾vÇv÷z÷„ê„ó…&‰'ŠoŠxŠ¬Ž½Xa—“›”Æ”Ï•™¢¢$¢`¦m¦xÃtÃ}Ã¹ÇÇôÕôÞõù
-             H              ú
