@@ -13,9 +13,10 @@ ActiveRecord::Schema.define(:version => 4) do
 
   create_table "attachments", :force => true do |t|
     t.string   "title"
-    t.string   "type"
+    t.string   "kind"
     t.integer  "position"
     t.integer  "element_id"
+    t.string   "size_to"
     t.string   "attachment_file_name"
     t.string   "attachment_content_type"
     t.integer  "attachment_file_size"
@@ -31,7 +32,7 @@ ActiveRecord::Schema.define(:version => 4) do
     t.integer  "user_id"
     t.integer  "page_id"
     t.integer  "position"
-    t.string   "type"
+    t.string   "kind"
     t.datetime "published_at"
     t.datetime "start_at"
     t.datetime "end_at"
@@ -48,7 +49,7 @@ ActiveRecord::Schema.define(:version => 4) do
     t.integer  "lft"
     t.integer  "rgt"
     t.integer  "position"
-    t.string   "type"
+    t.string   "kind"
     t.string   "template"
     t.datetime "published_at"
     t.datetime "created_at"
@@ -57,6 +58,7 @@ ActiveRecord::Schema.define(:version => 4) do
 
   create_table "users", :force => true do |t|
     t.string   "login"
+    t.string   "name"
     t.string   "email"
     t.string   "crypted_password",          :limit => 40
     t.string   "salt",                      :limit => 40

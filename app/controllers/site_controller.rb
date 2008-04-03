@@ -14,6 +14,7 @@ class SiteController < ApplicationController
     # response.headers.delete('Cache-Control')
    
     url = params[:url]
+    logger.debug ("• Route to #{params[:url]}")
     if Array === url
       url = url.join('/')
     else
@@ -23,6 +24,8 @@ class SiteController < ApplicationController
     @page = Page.find_by_slug(url)
     
     if @page.nil?
+      flash[:error] = "We cannot find that page<br />#{params[:url]}"
+      logger.debug ("Failed Route to #{params[:url]}")
       redirect_to :action => 'not_found' 
     else
       render :layout => "templates/#{@page.template}" 
@@ -36,7 +39,7 @@ class SiteController < ApplicationController
   end
   
   def not_found
-    render :text => "We cannot find that page"    
+    render :text => flash[:error]    
   end
   
   def error

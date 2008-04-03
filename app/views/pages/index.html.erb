@@ -4,20 +4,20 @@
 </div>
 
 <% content_for :sidebar do %>
-<div>
-  <p>Create a new page</p>
+<fieldset>
+  <legend>Create a new page</legend>
   
   <% form_for :page, @page, :url => collection_url, :html => { :multipart => true } do |form| %>
-    <p><%= form.label "Page Type: " %>
-    <%= form.select :type, Page::PAGETYPES %></p>
+    <p><%= form.label "Page Kind: " %>
+    <%= form.select :kind, Page::PAGETYPES %></p>
     <p><%= form.label "Title: " %>
     <%= form.text_field :title %></p>
     <p><%= form.label "Is a subpage of: " %>
-    <%= form.select :parent_id, [["",0]] + Page.find(:all).collect{|p| [p.title, p.id] } %></p>
+    <%= form.select :parent_id, [["",0]] + Page.find(:all).select {|p| p.can_has_subpages? }.collect{|p| [p.title, p.id] } %></p>
     <input id="page_template" name="page[template]" type="hidden" value="<%= Page.template_names.first %>" />
-    <p><%= form.submit "Create", :style => "font-size:18px; text-align:center" %></p>
+    <p><button class="positive" type="submit"><img src="/images/silk/add.png" alt="" /> Add a new Page</button></p>
     
    <% end %>
-</div>
+</fieldset>
 <% end %>
 

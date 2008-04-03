@@ -1,6 +1,7 @@
 <h1><%= @page.title %></h1>
-<p><%= @page.meta_keywords %></p>
-<p><%= @page.meta_description %></p>
-<p><%= @page.slug %></p>
+<% content_for :page_title do %><%= @page.title %><% end %>
+<% content_for :meta_keywords do %><%= @page.meta_keywords %><% end %>
+<% content_for :meta_description do %><%= @page.meta_description %><% end %>
 
-<p><%= @page.published_at %></p>
+
+<%= render_partial_collection 'element', @page.elements %>

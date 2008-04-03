@@ -1,3 +1,0 @@
-class Gallery < Page
-
-end

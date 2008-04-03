@@ -1,3 +1,0 @@
-class Embed < Element
-
-end

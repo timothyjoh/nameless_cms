@@ -8,7 +8,7 @@ class CreateElements < ActiveRecord::Migration
       t.integer :user_id
       t.integer :page_id
       t.integer :position
-      t.string :type
+      t.string :kind
       t.datetime :published_at
       t.datetime :start_at
       t.datetime :end_at

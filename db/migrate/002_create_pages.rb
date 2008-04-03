@@ -9,7 +9,7 @@ class CreatePages < ActiveRecord::Migration
       t.integer :lft
       t.integer :rgt
       t.integer :position
-      t.string :type
+      t.string :kind
       t.string :template
       t.datetime :published_at
 

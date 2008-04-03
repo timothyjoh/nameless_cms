@@ -2,6 +2,7 @@ class CreateUsers < ActiveRecord::Migration
   def self.up
     create_table "users", :force => true do |t|
       t.column :login,                     :string
+      t.column :name,                      :string
       t.column :email,                     :string
       t.column :crypted_password,          :string, :limit => 40
       t.column :salt,                      :string, :limit => 40
@@ -11,7 +12,7 @@ class CreateUsers < ActiveRecord::Migration
       t.column :remember_token_expires_at, :datetime
     end
     
-    User.create({:login => 'admin', :password => 'covenant', :password_confirmation => 'covenant', :email => "found@foundinteractive.com"})
+    User.create({:login => 'admin', :name => 'Administrator', :password => 'covenant', :password_confirmation => 'covenant', :email => "found@foundinteractive.com"})
   end
 
   def self.down

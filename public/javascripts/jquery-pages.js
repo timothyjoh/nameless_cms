@@ -39,6 +39,16 @@ $(document).ready(function() {
 		$("div#extrafields").toggle();
 		return false;
 	});
+	
+	$("a#toggleSearchWords").click(function() {
+		$("p.elementSearchKeywords").toggle();
+		return false;
+	});
+	$("a#toggleElementPositions").click(function() {
+		$("p.elementPosition").toggle();
+		return false;
+	});
+	
 
 	
 });

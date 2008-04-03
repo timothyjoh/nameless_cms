@@ -4,15 +4,16 @@ class Page < ActiveRecord::Base
   acts_as_ordered_tree :foreign_key => :parent_id,
                        :order       => :position
                        
-  has_many :elements#, :attributes => true, :dependent => :destroy
+  has_many :elements, :attributes => true, :dependent => :destroy, :order => "position"
   
-  before_save :generate_slug
+  before_save :generate_slug, :set_proper_kind
   
   
-  Page::PAGETYPES = [ ["Normal", "Page"], 
-                      ["Blog", "Blog"],
-                      ["Gallery", "Gallery"],
-                      ["Calendar", "Calendar"]]
+  Page::PAGETYPES = [ ["Page"], 
+                      ["Blog"],
+                      ["Podcast"],
+                      ["Gallery"],
+                      ["Calendar"]]
     
                       
   def self.template_names
@@ -55,6 +56,14 @@ class Page < ActiveRecord::Base
     parent.nil? ? 0 : parent.depth + 1
   end
   
+  def can_has_subpages?(page = nil)
+    self.kind.nil? || self.kind == "Page" || self.kind == "Calendar" || self.kind == "Blog" || self.kind == "Gallery" || self.kind == "Podcast"
+  end
+  
+  def has_reversable?
+    self.kind == "Calendar" || self.kind == "Blog" || self.kind == "Podcast"
+  end
+  
   protected
     def generate_slug
       if self.slug.blank?
@@ -63,5 +72,22 @@ class Page < ActiveRecord::Base
         self.slug.gsub!(/[^a-z1-9]+/i, '_')
         self.slug.downcase!
       end
+    end
+    
+    def set_proper_kind
+      case self.parent.kind
+      when "Blog"
+        self.kind = "Post"
+      when "Podcast"
+        self.kind = "Episode"
+      when "Calendar"
+        self.kind = "Event"
+      when "Gallery"
+        self.kind = "Album"
+      when "Page"
+        # do nothing
+      else
+        return false
+      end unless self.parent.nil?
     end
 end

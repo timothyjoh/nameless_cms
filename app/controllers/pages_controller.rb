@@ -12,6 +12,11 @@ class PagesController < ApplicationController
     wants.js { render :template => "show.rjs" }
   end
   
+  create.failure.response do |wants|
+    # flash "Creating Failed!"
+    wants.html { redirect_to :action => 'index' }
+  end
+  
   uses_tiny_mce(:options => {
     :mode => "textareas",
     :editor_selector => "mceEditor",

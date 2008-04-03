@@ -2,28 +2,26 @@
 <div id="page">
   <% form_for :page, @page, :url => object_url, :html => { :method => :put, :multipart => true } do |form| %>
   <div class="span-14 last" style="background: #efeefe">
-    <div class="savepage"><p><%= form.submit "Save the Current Page" %></p>
-    </div>
-    <p class="big" style="padding: 20px 0">
-    <%= image_tag "cms/#{@page.type || "Page"}.png" %>
-    <%= form.label "#{@page.type} page title:" %><br />
+    
+    <p class="big" style="padding: 20px 0 0">
+    <%= image_tag "cms/#{@page.kind || "Page"}.png" %>
+    <%= form.label "#{@page.kind} page title:" %><br />
     <%= form.text_field :title, :style=>"width: 330px;" %></p>
     <p><%= form.label "Slug:" %><br />
     <%= form.text_field :slug, :style=>"width: 330px;" %></p>
-    <p><a href="#" class="meta_toggle">Show/Hide Meta Fields</a> || 
-      <a href="#" class="extra_toggle">Show/Hide Extra Properties</a>
-      </p>
+    <p><button class="positive" type="submit"><img src="/images/silk/accept.png" alt="" /> Save this Page</button></p>
+
 
   </div>
   <hr />
-  <div id="extrafields">
+  <div id="extrafields" style="display:none">
     <div class="span-5">
       <P><%= form.label "Template:" %><br />
       <%= form.select :template, Page.template_names %></P>
     </div>
     <div class="span-5">
       <p><%= form.label "Parent Page:" %><br />
-      <%= form.select :parent_id, [["",0]] + Page.find(:all).collect{|p| [p.title, p.id] } %></p>
+      <%= form.select :parent_id, [["",0]] + Page.find(:all).select {|p| p.can_has_subpages?(@page) }.collect{|p| [p.title, p.id]} %></p>
     </div>
     <div class="span-4 last">
       <p><%= form.label "Position:" %><br />
@@ -47,21 +45,50 @@
     </div>
   </div>
   <div>
-    <div id="elements"><%= form.render_associated_form(@page.elements) %></div>
-    <p><%= form.add_associated_link "Add New Element", @page.elements.build %></p>
+    <div id="elements">
+      <%= form.render_associated_form(@page.elements) %>
+    </div>
   </div>
 <% end %>
-<p class="destroy"><%= link_to 'Destroy this Page', object_url(@page), :confirm => 'Are you sure?', :method => :delete %></p>
+
 </div>
 
 
 
 
 <% content_for :sidebar do %>
-<div style="margin-top: 100px">
-  <p>Add a page element</p>
-  
 
-</div>
+
+
+<fieldset>
+  <legend>Page Properties</legend>
+  <p><a href="#" class="meta_toggle">Show/Hide Meta Fields</a></p>
+  <p><a href="#" class="extra_toggle">Show/Hide Extra Properties</a></p>
+</fieldset>
+
+<fieldset>
+  <legend>Page Destruction</legend>
+  <p>Be careful, things could get ugly here.</p>
+  <p class="destroy">
+  <% form_for :page, :url =>  object_url(@page), :method => "delete" do |form| %>
+  <input name="_method" type="hidden" value="delete" />
+  <p><button class="negative" type="submit" onclick="return confirm('Oh noes! DO NOT WANT?');"><img src="/images/silk/delete.png" alt="" /> Destroy this Page</button></p>
+  <% end %>
+  
+</fieldset>
+
+<fieldset>
+  <legend>Page Elements</legend>
+  <% form_for :element, :url => page_elements_url(@page) do |form| %>
+  <p><%= form.select :kind, Element::ELEMENTTYPES %></p>
+  <p><button class="positive" type="submit"><img src="/images/silk/add.png" alt="" /> Add a new Element</button></p>
+  <% end %>
+  <br class="clear" />
+  <p><hr /></p>
+  <p><a href="#" id="toggleSearchWords">Show/Hide Search Keywords boxes in elements</a></p>
+  <p><a href="#" id="toggleElementPositions">Show/Hide Position boxes in elements</a></p>
+</fieldset>
+
+
 <% end %>
 

@@ -2,7 +2,8 @@ ActionController::Routing::Routes.draw do |map|
   map.resources :users
   map.resource :session
 
-  map.resources :pages
+  map.resources :pages, :has_many => :elements
+  map.resources :elements, :has_many => :attachments
   
   map.signup '/signup', :controller => 'users', :action => 'new' 
   map.login '/login', :controller => 'sessions', :action => 'new' 
