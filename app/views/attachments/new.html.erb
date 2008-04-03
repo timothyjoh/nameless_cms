@@ -1,0 +1,17 @@
+<div style="margin:20px;">
+  <h3>Upload a File</h3>
+<% form_for :attachment, @attachment, :url => element_attachments_path(@attachment.element), :html => { :multipart => true } do |form| %>
+  <%= form.hidden_field :element_id %>
+  
+  <p><%= form.label "Caption: " %><br />
+  <%= form.text_field :title %></p>
+  
+  <!-- <p><%= form.label "Size to: " %><br />
+  <%= form.text_field :size_to %></p> -->
+  
+  <p><%= form.label "File: " %><br />
+  <%= form.file_field :attachment %></p>
+  
+  <p align="right"><%= form.submit "Upload the File" %></p>
+<% end %>
+</div>

@@ -1,0 +1,12 @@
+<div class="element">
+
+  <p><label>Subheading</label>  
+    <span style="float:right;"><%= f.remove_link "Delete this Rich Text Element" %></span><br />
+  <%= f.text_field :title %></p>
+  <p><label>Content</label><br />
+  <%= f.text_area :body, :class => 'mceEditor' %></p>
+  <p><label>Search keywords</label><br />
+  <%= f.text_area :search_terms %></p>
+
+
+</div>

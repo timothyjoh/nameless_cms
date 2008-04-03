@@ -1,0 +1,72 @@
+<div class="element">
+<% case element.kind
+	when "Richtext" %>
+  <p><label>Subheading</label>
+  <span style="float:right;" class="destroy"><%= link_to "Delete this Rich Text Element", page_element_url(element.page, element.id), :confirm => 'Are you sure?', :method => :delete  %></span><br />
+  <%= f.text_field :title %></p>
+  <p><label>Content</label><br />
+  <%= f.text_area :body, :class => 'mceEditor' %></p>
+  
+
+
+<% when "Embed" %>
+
+<p><label>Embedded Code</label>
+  <span style="float:right;" class="destroy"><%= link_to "Delete this Item", page_element_url(element.page, element.id), :confirm => 'Are you sure?', :method => :delete  %></span><br />
+<%= f.text_area :body %></p>
+<p><label>Caption</label><br />
+<%= f.text_field :title %></p>
+
+<% when "Code" %>
+
+<p><label>Code Snippet</label>
+  <span style="float:right;" class="destroy"><%= link_to "Delete this Code Block", page_element_url(element.page, element.id), :confirm => 'Are you sure?', :method => :delete  %></span><br />
+<%= f.text_area :body %></p>
+<p><label>Caption</label><br />
+<%= f.text_field :title %></p>
+
+<% when "TimeRange" %>
+
+<p><label>Event Starts On</label>
+  <span style="float:right;" class="destroy"><%= link_to "Delete this TimeRange", page_element_url(element.page, element.id), :confirm => 'Are you sure?', :method => :delete  %></span><br />
+<%= f.datetime_select :start_at, {:minute_step => 15, :twelve_hour => true} %></p>
+<p><label>Event Ends On</label><br />
+<%= f.datetime_select :end_at, {:minute_step => 15, :twelve_hour => true} %></p>
+
+<% when "Files" %>
+<span style="float:left;" class="">
+<a href="/elements/<%= element.id %>/attachments/new?width=300&height=220" class="thickbox">+ Upload a new File</a></span>
+
+<span style="float:right;" class="destroy"><%= link_to "Delete these Files", page_element_url(element.page, element.id), :confirm => 'Are you sure?', :method => :delete  %></span>
+<br class="clear" />
+
+<% if element.has_only_photos? %>
+<% rel = "element#{element.id}" %>
+<% for file in element.attachments %>
+<div class="imagethumb"><%= link_to (image_tag file.attachment.url(:thumb), :alt => file.title, :class => 'thickbox'), file.attachment.url, :rel => rel, :title => file.title, :class => 'thickbox' %>
+<p><%= file.title %></p></div>
+<% end %>
+<br class="clear" />
+<% else %>
+<% for file in element.attachments %>
+<div class="filelist">
+<p><%= link_to (image_tag file.content_type_png, :alt => file.title, :width => 32, :height => 32)+" #{file.title}", file.attachment.url, :rel => rel, :title => file.title %></p>
+</div>
+<% end %>
+<% end %>
+
+
+
+
+<% else %>
+  <p> I dunno what kind of element that is </p>
+<% end %>
+
+<p class="elementSearchKeywords" style="display:none"><label>Search keywords</label><br />
+<%= f.text_area :search_terms %></p>
+
+<p class="elementPosition" style="display:none"><label>Position</label><br />
+<%= f.text_field :position %></p>
+
+</div>
+<hr />

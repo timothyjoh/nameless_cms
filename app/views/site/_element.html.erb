@@ -1,0 +1,77 @@
+<% case element.kind.to_s
+  when "Richtext" %>
+  <h3><%= element.title %></h3>
+  <%= element.body %>
+  
+
+
+<% when "Embed" %>
+<%= element.body %>
+<p><i><%= element.title %></i></p>
+
+<% when "Code" %>
+<p><b><%= element.title %></b></p>
+<code><%=h element.body %></code>
+
+<% when "TimeRange" %>
+  <div class="timerange">
+    <% start_day = element.start_at.strftime("%A, %B %d, %Y") %>
+    <% end_day = element.end_at.strftime("%A, %B %d, %Y") %>
+    <% if start_day == end_day %> 
+      <h3><%= start_day %></h3>
+      <div class="from">
+        <%= element.start_at.strftime("%I:%M%p") %>      
+      </div>
+      <div class="to"> to </div>
+      <div class="until">
+        <%= element.end_at.strftime("%I:%M%p") %>
+      </div>
+    <% else %>
+      <div class="from">
+        <%= start_day %><br />
+        <%= element.start_at.strftime("at %I:%M%p") %>      
+      </div>
+      <div class="to"> to </div>
+      <div class="until">
+        <%= end_day %><br />
+        <%= element.end_at.strftime("at %I:%M%p") %>
+      </div>
+    <% end %>
+    <br class="clear" />
+  </div>
+
+<% when "Files" %>
+
+  <div class="filedrawer">
+  <% if element.attachments.length <= 1 %>
+  <!-- Show only one file or picture -->
+    <% if element.has_only_photos? %>
+      <%= image_tag element.attachments.first.attachment.url(:medium), :alt => element.attachments.first.title %>
+      <p><%= element.attachments.first.title %></p>
+    <% else %>
+      <% file_viz = image_tag(element.attachments.first.content_type_png, :alt => element.attachments.first.title, :width=>32, :height => 32)+element.attachments.first.title %>
+      <div class="filelist"><p><%= link_to file_viz, element.attachments.first.attachment.url, :target => '_blank'  %></p></div>
+    <% end %>
+  <% else %>
+    <% if element.has_only_photos? %>
+    <% rel = "element#{element.id}" %>
+    <% for file in element.attachments %>
+      <div class="imagethumb"><%= link_to (image_tag file.attachment.url(:thumb), :alt => file.title), file.attachment.url, :rel => rel, :title => file.title, :class => 'thickbox' %>
+      <p><%= file.title %></p></div>
+    <% end %>
+    <br class="clear" />
+    <% else %>
+    <div class="filelist">
+      <% for file in element.attachments %>
+        <P><%= link_to (image_tag file.content_type_png, :alt => file.title, :width=>32, :height => 32)+ file.title, file.attachment.url, :title => file.title, :target => "_blank" %></P>
+      <% end %>
+    </div>
+    <% end %>
+  <% end %>
+  </div>
+  
+  
+<% else %>
+  <p> I dunno what kind of element "<b><%= element.type %></b>" is. </p>
+<% end %>
+
