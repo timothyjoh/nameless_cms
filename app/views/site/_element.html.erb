@@ -47,17 +47,18 @@
 
 <% when "Files" %>
 
-  <div class="filedrawer">
   <% if element.attachments.length <= 1 %>
   <!-- Show only one file or picture -->
+  <div class="single-filedrawer">
     <% if element.has_only_photos? %>
       <%= image_tag element.attachments.first.attachment.url(:medium), :alt => element.attachments.first.title %>
-      <p><%= element.attachments.first.title %></p>
+      <%= content_tag "p", element.attachments.first.title, :class => "caption" unless element.attachments.first.title.blank?  %>
     <% else %>
       <% file_viz = image_tag(element.attachments.first.content_type_png, :alt => element.attachments.first.title, :width=>32, :height => 32)+element.attachments.first.title %>
       <div class="filelist"><p><%= link_to file_viz, element.attachments.first.attachment.url, :target => '_blank'  %></p></div>
     <% end %>
   <% else %>
+  <div class="filedrawer">
     <% if element.has_only_photos? %>
     <% rel = "element#{element.id}" %>
     <% for file in element.attachments %>
