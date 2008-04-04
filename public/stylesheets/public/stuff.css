@@ -1,0 +1,63 @@
+
+div.timerange {
+	background: #de9;
+	border: 2px solid #cd8;
+	padding: 10px 20px;
+	margin-bottom:16px;
+}
+div.timerange .from, div.timerange .until {
+	float: left;
+	border: 2px solid #cd8;
+	padding: 3px 10px;
+	background: #efa;
+	
+	
+}
+div.timerange .to {
+	float: left;
+	border: 2px solid #de9;
+	padding: 3px 10px;
+}
+
+code {
+	display: block;
+	overflow: scroll;
+	font-size: 1.2em;
+	background: #222;
+	color: #fff;
+	padding: 1em 2em;
+/*	font-weight: bold;*/
+}
+
+div.imagethumb {
+	float: left;
+	background: #fff;
+	width:140px;
+	height: 170px;
+	border: 2px solid #eee;
+	text-align:center;
+	margin: 5px;
+}
+div.imagethumb img {
+	margin:20px 20px 0 20px;
+	clear:right;
+}
+div.filedrawer {
+	background: #eee;
+	border: 2px solid #e6e6e6;
+	padding: 10px 20px;
+	margin-bottom: 16px;
+}
+div.filelist {
+}
+div.filelist p {
+	clear: both;
+	height: 2em;
+	padding: 3px 3px 10px;
+	border-bottom: 1px solid #ddd;
+	line-height: 2em;
+}
+div.filelist a img {	
+	margin: 0em 1em 0 0;
+	vertical-align :middle;
+}
