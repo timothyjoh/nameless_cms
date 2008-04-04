@@ -7,5 +7,6 @@
 
 <%= render_partial_collection 'element', @page.elements %>
 
+<%= render_partial_collection 'post', @page.children if @page.kind == "Blog" %>
 
 <% content_for :head do %><%= @head_stuff %><% end %>

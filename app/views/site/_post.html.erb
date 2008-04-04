@@ -1,0 +1,6 @@
+<hr />
+<h3><%= link_to post.title, "/#{post.slug}" %></h3>
+<h6><%= post.elements[0].title %></h6>
+<%= post.elements[0].body %>
+
+<%= content_tag "p", (link_to "Read More...", "/#{post.slug}") if post.elements.length > 1 %>
