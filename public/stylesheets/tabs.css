@@ -41,7 +41,7 @@ a:active { color: #000; }
 	top: 0;
 	margin: 1px 2px 0 0;
 	float: left;
-	background: #333;
+	background: #1a0e0a;
 	border-right: 1px solid #fff;
 	border-top: 1px solid #fff;
 	border-left: 1px solid #fff;
@@ -86,7 +86,14 @@ a:active { color: #000; }
 	text-decoration: none;
 	color: #fff;
 }
-
+.subtab_bar {
+	background:#5acae0;
+}
+#subtabs {
+	background: #5acae0;
+	color: #000;
+	padding: 5px 7px 7px 7px; /* for All other Browsers */
+}
 #subtabs ul {
 	list-style-type: none;
 	margin: 0;
@@ -102,8 +109,75 @@ a:active { color: #000; }
 
 #subtabs li:first-child { border-left: none; }
 
-#subtabs {
+
+.pink #tabs a {
+	color: #523a38;
+}
+.pink #tabs a.active {
+	background: #fcd;
+	color: #000;
+}
+.pink #tabs a.active:hover {
+	background: #fcd;
+	color: #000;
+}
+.pink .subtab_bar {
+	background:#fcd;
+}
+.pink #subtabs {
+	background: #fcd;
+}
+
+.blue #tabs a {
+	color: #456;
+}
+.blue #tabs a.active {
 	background: #5acae0;
 	color: #000;
-	padding: 5px 7px 7px 7px; /* for All other Browsers */
+}
+.blue #tabs a.active:hover {
+	background: #5acae0;
+	color: #000;
+}
+.blue .subtab_bar {
+	background:#5acae0;
+}
+.blue #subtabs {
+	background: #5acae0;
+}
+
+.green #tabs a {
+	color: #252;
+}
+.green #tabs a.active {
+	background: #252;
+	color: #fff;
+}
+.green #tabs a.active:hover {
+	background: #252;
+	color: #fff;
+}
+.green .subtab_bar {
+	background:#252;
+}
+.green #subtabs {
+	background: #252;
+}
+
+.gold #tabs a {
+	color: #540;
+}
+.gold #tabs a.active {
+	background: #fd7;
+	color: #000;
+}
+.gold #tabs a.active:hover {
+	background: #fd7;
+	color: #000;
+}
+.gold .subtab_bar {
+	background:#fd7;
+}
+.gold #subtabs {
+	background: #fd7;
 }

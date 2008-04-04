@@ -314,3 +314,10 @@ div.filelist a img {
 div.element {
 	bbackground: #fff url('/images/element_bg.gif') repeat-x top left;
 }
+
+div.header {
+	background: #1a0e0a url("/images/choco_bg.gif") bottom left repeat-x;
+}
+div.logo {
+	height:90px;
+}
