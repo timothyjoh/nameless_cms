@@ -13,6 +13,11 @@
 <p><b><%= element.title %></b></p>
 <code><%=h element.body %></code>
 
+
+<% when "Head" %>
+<% @head_stuff += element.body %>
+
+
 <% when "TimeRange" %>
   <div class="timerange">
     <% start_day = element.start_at.strftime("%A, %B %d, %Y") %>

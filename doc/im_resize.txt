@@ -1,0 +1,18 @@
+-resize width
+-resize widthxheight{%} {@} {!} {<} {>} {^}
+
+resize an image.
+
+By default, the width and height are maximum values. That is, the image is expanded or contracted to fit the width and height value while maintaining the aspect ratio of the image. Append an exclamation point to the geometry to force the image size to exactly the size you specify. For example, if you specify 640x480! the image width is set to 640 pixels and height to 480.
+
+If only the width is specified, the width assumes the value and the height is chosen to maintain the aspect ratio of the image. Similarly, if only the height is specified (e.g., -resize x256, the width is chosen to maintain the aspect ratio.
+
+To specify a percentage width or height instead, append %. The image size is multiplied by the width and height percentages to obtain the final image dimensions. To increase the size of an image, use a value greater than 100 (e.g. 125%). To decrease an image's size, use a percentage less than 100.
+
+Use @ to specify the maximum area in pixels of an image.
+
+Use > to change the dimensions of the image only if its width or height exceeds the geometry specification. < resizes the image only if both of its dimensions are less than the geometry specification. For example, if you specify 640x480> and the image size is 256x256, the image size does not change. However, if the image is 512x512 or 1024x1024, it is resized to 480x480. Enclose the geometry specification in quotation marks to prevent the < or > from being interpreted by your shell as a file redirection.
+
+Use ^ to set a minimum image size limit. The geometry 640x480^, for example, means the image width will not be less than 640 and the image height will not be less than 480 pixels after the resize. One of those dimensions will match the requested size, but the image will likely overflow the space requested to preserve its aspect ratio.
+
+If the -filter option precedes the -resize option, the image is resized with the specified filter.

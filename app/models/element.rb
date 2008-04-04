@@ -8,7 +8,8 @@ class Element < ActiveRecord::Base
                           ["Embed"],
                           ["Files"],
                           ["TimeRange"],
-                          ["Code"]]
+                          ["Code"],
+                          ["Head"]]
                           
   def has_only_photos?
     attachments.collect {|a| a.attachment_content_type }.grep(/image/).length == attachments.length

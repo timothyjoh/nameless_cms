@@ -49,6 +49,8 @@ $(document).ready(function() {
 		return false;
 	});
 	
+	$("div#metafields").toggle();
+	$("div#extrafields").toggle();
 
 	
 });

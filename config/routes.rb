@@ -41,7 +41,7 @@ ActionController::Routing::Routes.draw do |map|
 
   # Install the default routes as the lowest priority.
   map.with_options(:controller => 'site') do |site|
-      site.homepage          '',                                   :action => 'show_page', :url => '/'
+      site.homepage          '',                                   :action => 'show_page', :url => 'homepage'
       site.not_found         'error/404',                          :action => 'not_found'
       site.error             'error/500',                          :action => 'error'
     

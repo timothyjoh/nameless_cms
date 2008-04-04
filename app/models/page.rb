@@ -64,6 +64,7 @@ class Page < ActiveRecord::Base
     self.kind == "Calendar" || self.kind == "Blog" || self.kind == "Podcast"
   end
   
+  
   protected
     def generate_slug
       if self.slug.blank?

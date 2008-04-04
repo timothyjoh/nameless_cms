@@ -1,3 +1,4 @@
+<% @head_stuff = "" %>
 <h1><%= @page.title %></h1>
 <% content_for :page_title do %><%= @page.title %><% end %>
 <% content_for :meta_keywords do %><%= @page.meta_keywords %><% end %>
@@ -5,3 +6,6 @@
 
 
 <%= render_partial_collection 'element', @page.elements %>
+
+
+<% content_for :head do %><%= @head_stuff %><% end %>

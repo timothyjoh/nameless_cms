@@ -1,0 +1,16 @@
+-crop width{%}
+-crop widthxheight{+-}x{+-}y{%}
+
+cut out a rectangular region of the image.
+
+See -resize for details about the geometry specification.
+
+The width and height give the size of the image that remains after cropping, and x and y are offsets that give the location of the top left corner of the cropped image with respect to the original image. To specify the amount to be removed, use -shave instead.
+
+If the x and y offsets are present, a single image is generated, consisting of the pixels from the cropping region. The offsets specify the location of the upper left corner of the cropping region measured downward and rightward with respect to the upper left corner of the image. If the -gravity option is present with NorthEast, East, or SouthEast gravity, it gives the distance leftward from the right edge of the image to the right edge of the cropping region. Similarly, if the -gravity option is present with SouthWest, South, or SouthEast gravity, the distance is measured upward between the bottom edges.
+
+If the x and y offsets are omitted, a set of tiles of the specified geometry, covering the entire input image, is generated. The rightmost tiles and the bottom tiles are smaller if the specified geometry extends beyond the dimensions of the input image.
+
+By adding a exclamation character flag to the geometry argument, the cropped images virtual canvas page size and offset will be set as if the geometry argument was a viewport or window. This means the canvas page size will be set to exactly the same size you specified, the the image offset set relative to top left corner of the region cropped.
+
+If the cropped image 'missed' the actual image on its virtual canvas, a special single pixel transparent 'missed' image is returned, and a 'crop missed' warning given.

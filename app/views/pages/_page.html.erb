@@ -1,5 +1,8 @@
   <h4 style="margin-left:<%= page.depth*30  %>px;"><%= image_tag "cms/#{page.kind || "Page"}.png", :width => 32, :height => 32, :style => 'vertical-align:middle;'  %> 
-  <%= link_to page.title, page_url(page) %> <%= "&nbsp;"*3 %> <%= link_to image_tag("cms/view.png"), "/#{page.slug}" %></h4>
+  <%= link_to page.title, page_url(page)%> <%= "&nbsp;"*3 %> <%= link_to image_tag("silk/page_white_magnify.png"), "/#{page.slug}", :title => "View" %><small> <%= "/#{page.slug}" %></small></h4>
+
+
+<!-- This will iterate through the child pages -->
   <% page.children.reverse! if page.has_reversable? %>
   <% if page.has_reversable? %>
   <%= render_partial_collection 'page', page.children.reverse %>

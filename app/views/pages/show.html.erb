@@ -1,23 +1,25 @@
 
 <div id="page">
   <% form_for :page, @page, :url => object_url, :html => { :method => :put, :multipart => true } do |form| %>
-  <div class="span-14 last" style="background: #efeefe">
+  
+  
+  <div class="span-14 last" id="pagetitle">
     
     <p class="big" style="padding: 20px 0 0">
     <%= image_tag "cms/#{@page.kind || "Page"}.png" %>
     <%= form.label "#{@page.kind} page title:" %><br />
     <%= form.text_field :title, :style=>"width: 330px;" %></p>
-    <p><%= form.label "Slug:" %><br />
+    <p><%= form.label "Slug / URL:" %> <small>Needs to contain no spaces or special characters.</small><br />
     <%= form.text_field :slug, :style=>"width: 330px;" %></p>
     <p><button class="positive" type="submit"><img src="/images/silk/accept.png" alt="" /> Save this Page</button></p>
-
-
+    <br class="clear" />
+    
   </div>
-  <hr />
-  <div id="extrafields" style="display:none">
+  
+  <div id="extrafields" class="span-14 last">
     <div class="span-5">
-      <P><%= form.label "Template:" %><br />
-      <%= form.select :template, Page.template_names %></P>
+      <p><%= form.label "Template:" %><br />
+      <%= form.select :template, Page.template_names %></p>
     </div>
     <div class="span-5">
       <p><%= form.label "Parent Page:" %><br />
@@ -27,32 +29,32 @@
       <p><%= form.label "Position:" %><br />
       <%= form.text_field :position, :class => "span-2" %><br /></p>
     </div>
-    <hr />
-    <div class="span-14">
-      <P class='datetime'><%= form.label "Published at:" %><br />
-      <%= form.datetime_select :published_at, {:minute_step => 15, :twelve_hour => true} %></P>
+    <br class="clear" />
+
+    <div class="span-14 last">
+      <p class='datetime'><%= form.label "Published at:" %><br />
+      <%= form.datetime_select :published_at, {:minute_step => 15, :twelve_hour => true} %></p>
     </div>
-    <hr />
+    <br class="clear" />
+    
   </div>
-  <div class="span-14">
-    <div id="metafields" style="display:none">
+  
+  
+  <div class="span-14 last" id="metafields">
       <p>
       <%= form.label "Meta Keywords:" %><br />
       <%= form.text_area :meta_keywords %></p>
       <%= form.label "Meta Description:" %><br />
       <%= form.text_area :meta_description %></p>
-      <hr />
-    </div>
   </div>
-  <div>
-    <div id="elements">
-      <%= form.render_associated_form(@page.elements) %>
-    </div>
+  <br class="clear" />
+  <div id="elements">
+    <%= form.render_associated_form(@page.elements) %>
   </div>
 <% end %>
 
 </div>
-
+<!-- End div PAGE -->
 
 
 

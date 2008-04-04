@@ -25,6 +25,14 @@
 <p><label>Caption</label><br />
 <%= f.text_field :title %></p>
 
+
+<% when "Head" %>
+
+<p><label>Code for the head tag</label>
+  <span style="float:right;" class="destroy"><%= link_to "Delete this Item", page_element_url(element.page, element.id), :confirm => 'Are you sure?', :method => :delete  %></span><br />
+<%= f.text_area :body %></p>
+
+
 <% when "TimeRange" %>
 
 <p><label>Event Starts On</label>
@@ -69,4 +77,3 @@
 <%= f.text_field :position %></p>
 
 </div>
-<hr />

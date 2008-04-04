@@ -31,9 +31,8 @@
     <div id="tabs">
   		<ul>
   		<li><a href="/pages" class="active">Content Management System</a></li>
-  		<li><a href="/">Users</a></li>
-  		<li><a href="/admin/patients">Uploads</a></li>
   		<li><a href="#" class="gridtoggle">Toggle Layout Grid</a></li>
+  		<%= content_tag 'li', (content_tag 'a', "View Live Page", :href => "/#{@page.slug}", :target => 'new') unless @page.slug.nil? %>
   		</ul>
   	</div>
   </div>

@@ -21,7 +21,7 @@ blockquote, q {quotes:"" "";}
 a img {border:none;}
 
 /* typography.css */
-body {font-size:75%;color:#222;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;}
+body {font-size:75%;color:#222;font-family:"Bree-Light","Helvetica Neue", Helvetica, Arial, sans-serif;}
 h1, h2, h3, h4, h5, h6 {font-weight:normal;color:#111;}
 h1 {font-size:3em;line-height:1;margin-bottom:0.5em;}
 h2 {font-size:2em;margin-bottom:0.75em;}
@@ -208,9 +208,9 @@ hr.space {background:none;color:#fff;}
 .clear {clear:both;}
 
 /* forms.css */
-label {font-weight:bold;}
+label {font-weight:bbold;}
 fieldset {padding:1.4em;margin:0 0 1.5em 0;border:1px solid #ccc;}
-legend {font-weight:bold;font-size:1.2em;}
+legend {font-weight:bbold;font-size:1.2em;}
 input.text, input.title, textarea, select {margin:0.5em 0;border:1px solid #bbb;}
 input.text:focus, input.title:focus, textarea:focus, select:focus {border:1px solid #666;}
 input.text, input.title {width:220px;padding:5px;}
@@ -311,13 +311,40 @@ div.filelist a img {
 	margin: 0em 1em 0 0;
 	vertical-align :middle;
 }
-div.element {
-	bbackground: #fff url('/images/element_bg.gif') repeat-x top left;
-}
 
 div.header {
 	background: #1a0e0a url("/images/choco_bg.gif") bottom left repeat-x;
 }
 div.logo {
 	height:90px;
+	width:950px;margin:0 auto;
+	background: url("/images/choco_logo.png") top left no-repeat;	
+}
+small { color: #777; }
+
+div#page-layout {
+	margin: 20px 0;
+}
+div#metafields {
+	background: #ffe;
+}
+div#extrafields {
+	background: #ffe;
+}
+div#extrafields, div#metafields, div.element {
+	border-left: 3px solid #ddd;
+	padding-left:20px;
+	padding-top:20px;
+	border-bottom: 1px solid #cca;
+}
+div#pagetitle {
+	background: #efeefe;
+	border-left:3px solid #68a;
+	padding: 10px 0px 20px 20px;
+}
+div#elements .element {
+	padding: 20px 0 20px 20px;
+	border-bottom: 1px solid #eee;
+}
+div#page div {
 }
